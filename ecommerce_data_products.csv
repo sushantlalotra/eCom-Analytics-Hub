@@ -1,0 +1,601 @@
+ProductID,ProductName,Category,Brand,Price,Stock,Rating,Discount,Weight,Dimensions,Color,Material,ReleaseDate,WarrantyPeriod,Supplier
+P1000,Ok,Toys,BrandD,760.75,403,2.6,11.05,5.92,32x20x7 cm,Black,Fabric,15-04-2024,1 year,Valdez PLC
+P1001,Young,Books,BrandD,427.18,338,3,8.66,8.98,21x39x16 cm,White,Metal,07-08-2023,1 year,Suarez-Perkins
+P1002,Perform,Toys,BrandE,865.16,783,3.9,35.02,7.31,34x45x12 cm,Red,Fabric,26-06-2022,1 year,Powell-Taylor
+P1003,Most,Apparel,BrandB,493.59,942,3.7,28.09,1.24,33x43x8 cm,White,Metal,22-09-2024,1 year,Gray-Grimes
+P1004,Eat,Apparel,BrandB,379.18,153,1.6,43.28,0.25,29x27x5 cm,Green,Wood,21-04-2023,2 years,Moon and Sons
+P1005,Establish,Books,BrandB,515.08,945,2.6,34.54,4.13,37x32x6 cm,White,Fabric,14-10-2022,1 year,Oliver-Caldwell
+P1006,To,Beauty,BrandB,263.55,508,2,41.44,0.47,46x25x5 cm,White,Plastic,23-02-2024,2 years,"Woods, Sutton and Munoz"
+P1007,Bed,Home Appliances,BrandD,198.29,799,2.4,39.2,3.4,37x16x16 cm,Yellow,Fabric,14-11-2024,1 year,"Bruce, West and Fox"
+P1008,Concern,Toys,BrandC,724.7,315,3.5,40.38,5.28,19x10x13 cm,Green,Metal,12-04-2022,1 year,Reynolds Inc
+P1009,Whose,Electronics,BrandB,816.97,812,3.5,28.83,6.61,31x50x11 cm,Yellow,Wood,07-05-2024,6 months,"Pearson, Carpenter and Contreras"
+P1010,Owner,Sports,BrandC,286,951,3.4,13.15,4.97,50x11x9 cm,Red,Plastic,23-10-2023,2 years,Mccoy-Rubio
+P1011,Quite,Toys,BrandB,866.83,751,4.8,10.69,1.76,17x23x19 cm,Pink,Wood,29-04-2024,2 years,Davidson PLC
+P1012,Instead,Books,BrandB,553.54,47,4.6,21.67,0.94,31x34x14 cm,Black,Metal,20-05-2023,2 years,Mitchell PLC
+P1013,To,Beauty,BrandB,153.11,163,1.2,3.72,9.32,48x30x16 cm,Red,Metal,31-12-2023,2 years,Weber-Porter
+P1014,Reflect,Apparel,BrandC,556.62,288,2.2,35.66,5.94,19x18x9 cm,Green,Plastic,22-05-2022,6 months,Jones and Sons
+P1015,Air,Apparel,BrandC,867.46,805,5,25.09,5.16,17x50x18 cm,White,Wood,26-09-2023,2 years,Harris Inc
+P1016,Happy,Sports,BrandA,492.61,95,2.1,30.36,8.1,14x50x18 cm,Yellow,Plastic,18-06-2023,1 year,Gregory Ltd
+P1017,Same,Beauty,BrandD,228.54,399,4.7,8,7.77,29x34x8 cm,Pink,Fabric,18-03-2024,1 year,"Kelly, Wallace and Ware"
+P1018,Who,Electronics,BrandC,357.17,924,1.9,45.55,0.66,25x44x9 cm,Pink,Plastic,12-02-2023,1 year,Aguilar-Wilkerson
+P1019,Dream,Electronics,BrandD,864.83,202,4,27.72,9.24,45x36x13 cm,Red,Plastic,28-01-2023,6 months,Pope Ltd
+P1020,Until,Home Appliances,BrandE,65.76,170,3.4,44.79,5.32,24x16x9 cm,Green,Fabric,21-01-2022,1 year,"Gray, Stewart and Black"
+P1021,Indeed,Home Appliances,BrandD,511.98,733,4,39.45,6.25,13x23x8 cm,Yellow,Wood,18-05-2023,2 years,Cisneros Inc
+P1022,Kitchen,Sports,BrandD,713.17,419,3.3,48.61,3.87,17x10x11 cm,Red,Plastic,02-11-2022,2 years,Johnson-Rodriguez
+P1023,Nearly,Electronics,BrandB,446.91,979,2.8,44.15,8.57,15x12x18 cm,Yellow,Plastic,07-01-2024,1 year,Alexander-Brown
+P1024,Box,Toys,BrandD,92.25,141,4.2,29.52,2.31,21x22x20 cm,Green,Wood,10-01-2025,6 months,"Collins, Clark and Hill"
+P1025,Human,Beauty,BrandD,983.21,47,3.8,37.94,2.72,15x43x6 cm,Pink,Metal,16-08-2023,1 year,"Duke, Jackson and Cisneros"
+P1026,Republican,Sports,BrandE,893.09,546,1.1,27.19,0.89,47x46x17 cm,Yellow,Plastic,04-07-2023,2 years,"Scott, Winters and Sheppard"
+P1027,Ok,Toys,BrandD,95.1,890,3.3,29.81,0.31,20x36x19 cm,Pink,Plastic,27-10-2024,1 year,Wood Group
+P1028,Traditional,Electronics,BrandB,181.78,172,3.1,36.05,3.21,14x11x20 cm,Yellow,Plastic,25-12-2024,1 year,"Bernard, Boyd and Lopez"
+P1029,Across,Electronics,BrandC,430.71,509,3.9,29.55,1.14,15x48x14 cm,Blue,Fabric,14-01-2025,2 years,Stokes Ltd
+P1030,Mother,Electronics,BrandA,868.35,701,2.6,36.48,8.56,15x29x11 cm,White,Plastic,15-08-2022,6 months,"Thomas, Lara and Pierce"
+P1031,Same,Sports,BrandC,766.35,735,1.1,25.28,2.9,19x29x10 cm,Black,Wood,14-05-2022,2 years,Brown-Zamora
+P1032,Between,Beauty,BrandA,734.06,666,3.7,11.76,1.11,19x45x15 cm,Pink,Metal,27-10-2022,2 years,Mcgee-Jones
+P1033,Report,Toys,BrandD,826.08,844,2.5,29.56,5.16,23x35x16 cm,Blue,Metal,02-11-2023,2 years,"Freeman, Morris and Lewis"
+P1034,Teach,Beauty,BrandE,811.68,896,3.1,43.54,3.46,14x31x16 cm,Yellow,Wood,16-10-2022,6 months,"Contreras, Holmes and Webb"
+P1035,Over,Toys,BrandA,450.99,689,1.9,27.34,4.6,41x24x9 cm,Pink,Metal,15-11-2022,6 months,"Horne, Wilson and Roberts"
+P1036,Arrive,Books,BrandB,54.17,752,3.2,30.2,3.07,33x13x15 cm,Blue,Metal,28-03-2022,6 months,Maynard-Fields
+P1037,Approach,Sports,BrandC,658.94,418,2.1,21.55,0.5,40x11x9 cm,Pink,Metal,05-05-2023,2 years,Jacobs-Hart
+P1038,Start,Beauty,BrandB,673.57,204,1.4,31.57,9.9,48x11x14 cm,Red,Wood,19-08-2024,1 year,Horton-Powell
+P1039,Respond,Sports,BrandB,429.2,195,4.3,6.58,3.68,50x49x5 cm,Red,Metal,17-03-2024,1 year,Contreras and Sons
+P1040,Whom,Books,BrandE,955.27,691,2.7,7.45,8.12,40x46x16 cm,Green,Plastic,28-03-2023,1 year,Roach Group
+P1041,President,Home Appliances,BrandE,775.69,656,2.1,8.78,2.11,14x24x16 cm,Red,Fabric,14-02-2022,1 year,"Fisher, Kelly and Grant"
+P1042,Phone,Sports,BrandD,725.85,482,3.7,39.57,9.75,18x21x20 cm,White,Fabric,31-05-2023,2 years,Cardenas LLC
+P1043,Level,Home Appliances,BrandD,555.61,685,2.6,21.71,5.28,35x32x14 cm,White,Fabric,17-10-2023,6 months,Gonzalez-Vaughn
+P1044,Expect,Beauty,BrandB,473.74,43,1.3,14.38,3.57,20x26x17 cm,Green,Metal,26-01-2022,2 years,"Lawrence, Bennett and Watson"
+P1045,Hand,Toys,BrandD,351.73,842,4.4,25.24,1.17,15x43x7 cm,Red,Metal,22-02-2023,1 year,"Clark, Cole and Zhang"
+P1046,Project,Toys,BrandD,545.52,268,4.7,30.24,3.52,27x33x7 cm,Black,Wood,21-10-2022,6 months,Williams-Garcia
+P1047,Music,Home Appliances,BrandD,767.46,294,3.1,8.3,0.39,46x15x17 cm,Black,Fabric,03-05-2024,1 year,"Craig, Stewart and Arroyo"
+P1048,General,Electronics,BrandA,328.74,616,3.9,5.9,3.13,21x19x16 cm,Yellow,Wood,26-06-2022,1 year,"Todd, Cook and Campbell"
+P1049,Cell,Home Appliances,BrandB,211.2,30,2.8,23.74,2.8,22x33x6 cm,Green,Metal,30-03-2024,1 year,Anderson and Sons
+P1050,Practice,Books,BrandB,228.17,738,2.6,31.87,4.75,15x47x19 cm,Red,Fabric,26-08-2022,2 years,Turner-Jones
+P1051,Try,Apparel,BrandB,837.57,123,2.5,16.18,8.84,26x15x6 cm,Pink,Metal,09-03-2024,2 years,Gibbs Ltd
+P1052,Small,Apparel,BrandC,56.4,625,3.6,23.56,7.04,12x45x6 cm,Green,Metal,18-05-2023,6 months,Mckee-Holmes
+P1053,Since,Home Appliances,BrandD,701.81,152,2.9,35.1,1.6,13x41x13 cm,Red,Metal,09-10-2024,1 year,Boone Ltd
+P1054,College,Home Appliances,BrandB,670.9,912,2.2,20.8,8.49,38x26x12 cm,Blue,Metal,21-01-2023,6 months,Wagner-Anderson
+P1055,High,Sports,BrandB,470.85,425,4.9,12.78,4.93,25x23x20 cm,Green,Metal,08-03-2024,6 months,Williams Inc
+P1056,Himself,Home Appliances,BrandC,410.43,495,2.3,5.74,2.7,38x24x7 cm,White,Metal,26-03-2022,1 year,"Hall, Noble and Lopez"
+P1057,Return,Beauty,BrandB,678.22,115,4.6,8.73,4.25,31x34x20 cm,Pink,Metal,08-09-2023,6 months,"Johnston, Stewart and Flowers"
+P1058,Add,Books,BrandC,555.61,390,4.5,7.11,6.19,23x15x7 cm,Blue,Plastic,22-08-2024,2 years,"Perry, Allen and Johnson"
+P1059,Physical,Sports,BrandD,639.75,512,1.3,35.42,1.74,18x36x15 cm,Red,Wood,21-05-2022,6 months,Brooks PLC
+P1060,Yeah,Sports,BrandD,53.67,603,4.9,20.17,7.76,45x13x9 cm,Green,Wood,28-09-2023,1 year,Smith-Smith
+P1061,Suffer,Books,BrandB,187.69,61,3.9,39.7,6.31,30x30x7 cm,Green,Plastic,16-09-2023,6 months,"Roberts, Kennedy and Blevins"
+P1062,May,Toys,BrandA,930.52,217,4.4,14.6,8.88,32x18x19 cm,Black,Wood,11-12-2022,1 year,"White, Stephenson and Cisneros"
+P1063,Same,Toys,BrandE,769.36,546,3.9,11.66,4.89,19x14x15 cm,White,Wood,17-04-2023,2 years,Allen Inc
+P1064,Become,Apparel,BrandE,333.53,764,2.2,39.93,4.99,35x30x6 cm,Pink,Plastic,21-12-2024,1 year,"Young, Trujillo and Jackson"
+P1065,Beat,Home Appliances,BrandA,543.06,602,4.1,47.9,4,49x50x8 cm,Yellow,Fabric,09-10-2024,2 years,Shaw and Sons
+P1066,High,Home Appliances,BrandD,97.88,962,1.5,36.5,5.09,10x48x20 cm,White,Wood,07-08-2023,1 year,Murray PLC
+P1067,We,Books,BrandB,118.07,750,2.8,11.07,0.86,30x21x5 cm,Red,Wood,03-08-2023,6 months,"Watson, Rodriguez and Munoz"
+P1068,Foot,Sports,BrandD,264.41,232,2.3,20.95,7.13,25x49x5 cm,Pink,Plastic,05-03-2023,6 months,"Cobb, Mayo and Johnson"
+P1069,Source,Apparel,BrandE,831.06,409,2.1,45.75,2,37x34x20 cm,Green,Fabric,13-11-2023,6 months,Cox-Valenzuela
+P1070,Image,Toys,BrandA,680.93,967,2.7,36.71,4.36,48x34x6 cm,Pink,Wood,12-11-2024,6 months,Miller LLC
+P1071,Bill,Beauty,BrandA,968.48,755,3.6,42.38,9.51,27x43x13 cm,Blue,Wood,21-02-2023,2 years,Smith-Romero
+P1072,Arrive,Apparel,BrandE,667.29,355,2.8,8.39,2.37,46x40x6 cm,Yellow,Metal,22-05-2024,6 months,Miles-Nash
+P1073,Seat,Electronics,BrandA,698.77,310,1.2,8.63,2.19,33x48x7 cm,Pink,Plastic,30-11-2024,1 year,Ramirez-Powell
+P1074,Positive,Toys,BrandE,13.3,14,1.8,47.17,9.3,41x24x14 cm,Black,Plastic,06-03-2023,2 years,Peterson-Ballard
+P1075,Human,Sports,BrandB,901.94,766,2,21.47,4.39,25x32x10 cm,Blue,Wood,13-07-2023,2 years,Moore-Rodriguez
+P1076,Which,Apparel,BrandC,387.1,909,3.1,46.11,3.51,27x10x6 cm,White,Metal,31-05-2022,2 years,Dalton-Santana
+P1077,Think,Electronics,BrandB,846.64,31,2.5,10.86,6.02,28x39x6 cm,Green,Fabric,21-06-2022,1 year,Miller-Hickman
+P1078,Decade,Sports,BrandE,24.83,742,4.2,13.14,3.62,12x26x5 cm,Yellow,Fabric,18-03-2024,6 months,Lin-Reid
+P1079,Call,Apparel,BrandC,323.76,302,2.8,15.46,6.83,11x45x14 cm,Blue,Fabric,16-03-2023,1 year,Lee-Green
+P1080,Public,Books,BrandA,942.38,97,2.4,6.99,2,30x31x9 cm,Blue,Fabric,20-02-2024,2 years,Miranda and Sons
+P1081,Happen,Electronics,BrandB,755.35,860,2.4,45.92,8.59,47x27x18 cm,Pink,Wood,29-11-2023,2 years,Jordan-Palmer
+P1082,Ground,Toys,BrandD,505.02,131,3.4,33.17,3.63,50x23x13 cm,White,Metal,10-05-2023,2 years,Diaz-Alexander
+P1083,Product,Electronics,BrandB,500.94,255,3.6,14.75,5.47,24x34x10 cm,Green,Metal,28-08-2024,6 months,Daniels and Sons
+P1084,Lot,Sports,BrandD,79.6,736,4.6,25.7,5.55,47x50x11 cm,Green,Fabric,01-06-2023,2 years,"Norris, Wagner and James"
+P1085,Star,Apparel,BrandE,904.19,977,1.2,49.3,7.64,15x35x11 cm,Pink,Wood,20-08-2024,6 months,Henderson-Smith
+P1086,Bill,Beauty,BrandA,50.56,873,1.4,28.81,3.63,34x20x8 cm,Black,Wood,26-11-2024,2 years,Williams-Medina
+P1087,Move,Sports,BrandC,79.53,763,3.8,25.65,9.86,24x20x14 cm,Pink,Wood,14-12-2022,2 years,"Chandler, Wright and Marshall"
+P1088,Though,Books,BrandE,782.65,74,2.1,5.65,8.38,47x10x9 cm,White,Fabric,23-05-2023,1 year,Mcclure PLC
+P1089,Magazine,Books,BrandB,842.69,823,3.3,31.49,2.73,26x15x11 cm,Red,Plastic,08-01-2024,1 year,"Rodriguez, Collins and Nelson"
+P1090,Fish,Electronics,BrandB,787.24,286,2.4,24.28,0.74,14x49x16 cm,Green,Metal,08-10-2023,2 years,Murphy Inc
+P1091,Family,Toys,BrandD,322.95,37,4.4,28.51,2.15,18x28x20 cm,Pink,Wood,02-05-2023,1 year,Mathews-Richmond
+P1092,Small,Sports,BrandA,637.25,137,3.3,3.97,5.3,16x41x10 cm,Black,Wood,10-03-2023,6 months,Fernandez-Kelly
+P1093,Heart,Apparel,BrandC,923.21,975,4.5,8.75,6.4,41x48x19 cm,Red,Fabric,03-06-2023,1 year,"Kline, Collier and Carter"
+P1094,Scientist,Toys,BrandB,882.34,529,1.2,13.44,7.73,34x42x15 cm,White,Plastic,26-03-2022,1 year,Delgado-Shepard
+P1095,Coach,Apparel,BrandD,135.07,23,1.3,44.47,5.53,30x17x9 cm,White,Metal,31-05-2022,6 months,Harris-Meyer
+P1096,Try,Beauty,BrandB,36.49,411,1.5,17.73,3.66,38x37x19 cm,Pink,Wood,07-09-2022,1 year,"Butler, Thomas and Burns"
+P1097,Difference,Electronics,BrandB,993.27,419,3.4,12.48,1.85,45x10x20 cm,Pink,Wood,18-09-2022,6 months,Lowe-Vaughan
+P1098,Form,Books,BrandB,864.97,319,1,18.47,6.59,50x35x11 cm,Pink,Metal,11-08-2023,2 years,"Barrett, Myers and Gray"
+P1099,Process,Electronics,BrandC,813.52,898,1.3,28.91,9.05,50x15x7 cm,Blue,Wood,01-01-2023,6 months,"Barnes, Houston and Hernandez"
+P1100,Risk,Apparel,BrandA,80.3,722,1.9,0.77,0.84,44x10x5 cm,Black,Fabric,08-01-2024,2 years,Rivera Group
+P1101,Drug,Toys,BrandD,309.97,677,3.8,41.91,3.6,26x25x20 cm,Green,Plastic,19-04-2023,2 years,Edwards Group
+P1102,Cost,Sports,BrandD,962.88,372,4.9,30.35,4.35,39x49x8 cm,Green,Wood,01-11-2023,2 years,"Roberts, Rodriguez and Buchanan"
+P1103,Before,Toys,BrandE,864.25,72,4,30.32,2.93,25x36x5 cm,Green,Plastic,01-04-2024,6 months,Page-Gay
+P1104,Watch,Apparel,BrandA,53.45,56,4.8,39.49,1.75,12x44x9 cm,Green,Fabric,28-02-2023,6 months,"Obrien, Hampton and Sanchez"
+P1105,Our,Sports,BrandE,181.93,588,4.7,4.05,3.32,45x37x16 cm,Pink,Metal,07-02-2023,2 years,Sanchez-Rivera
+P1106,Would,Toys,BrandC,536.82,672,3.8,5.76,5.14,37x18x5 cm,White,Wood,15-07-2022,2 years,Carlson-Mitchell
+P1107,Possible,Home Appliances,BrandE,265.67,252,1.3,22.17,7.04,40x30x7 cm,Red,Fabric,09-06-2022,6 months,Acosta-Newman
+P1108,Office,Apparel,BrandB,506.61,95,3.8,17.34,5.74,30x38x5 cm,Red,Metal,14-02-2024,1 year,Riley-Hernandez
+P1109,Magazine,Electronics,BrandE,747.39,124,3.1,37.36,1.83,42x38x13 cm,Red,Metal,25-12-2024,6 months,French LLC
+P1110,Design,Beauty,BrandD,225.2,729,4,8.99,5.28,30x22x8 cm,Blue,Metal,15-01-2023,6 months,"Myers, Love and Smith"
+P1111,Guess,Home Appliances,BrandC,138.52,57,2.4,8.32,5.26,50x24x15 cm,White,Plastic,12-07-2024,6 months,James LLC
+P1112,Want,Toys,BrandE,52.6,608,4,21.98,9.45,32x48x11 cm,Green,Wood,06-11-2023,1 year,"Gonzales, Hart and Jennings"
+P1113,Throw,Sports,BrandB,116.03,212,1.7,34.02,8.46,38x24x5 cm,Yellow,Metal,27-12-2024,6 months,Walters-Cruz
+P1114,Good,Beauty,BrandE,858.66,107,3,28.57,6.34,22x42x7 cm,Red,Metal,02-11-2023,1 year,Reed LLC
+P1115,Responsibility,Toys,BrandD,299.19,677,1.1,8.15,5.83,21x46x15 cm,Yellow,Metal,26-02-2023,1 year,"Wade, Cook and Franco"
+P1116,Enjoy,Toys,BrandA,491.73,647,4.2,45.94,6.03,18x24x16 cm,Yellow,Wood,12-08-2023,2 years,Watts and Sons
+P1117,Share,Home Appliances,BrandB,572.1,766,2.2,39.46,8.01,45x46x6 cm,Yellow,Wood,17-11-2024,2 years,Compton Inc
+P1118,Cultural,Apparel,BrandD,275.5,950,1.1,28.46,1.29,18x15x9 cm,Green,Fabric,11-03-2023,6 months,Riggs-Chavez
+P1119,Tv,Home Appliances,BrandE,38.47,799,3,6.65,2.1,11x27x11 cm,Blue,Fabric,11-11-2024,6 months,King-Davis
+P1120,May,Electronics,BrandD,428.43,573,1.8,30.75,0.96,39x32x9 cm,White,Wood,21-09-2022,6 months,"Harris, Moore and Webster"
+P1121,Behind,Electronics,BrandB,552.29,384,4,37.73,4.04,18x18x14 cm,Black,Metal,03-06-2022,2 years,"Williams, Johns and Walters"
+P1122,Try,Apparel,BrandB,392.01,698,3.2,11.04,5.71,24x12x18 cm,Yellow,Metal,23-07-2023,1 year,"Anderson, Mendoza and Davidson"
+P1123,Mind,Sports,BrandA,951,783,1.3,7.16,3.69,19x45x10 cm,Pink,Metal,19-01-2024,6 months,Fernandez Group
+P1124,Air,Beauty,BrandB,463.84,375,4.7,15.32,2.05,33x48x16 cm,Black,Fabric,25-08-2023,6 months,"Johnson, Dean and Sexton"
+P1125,That,Home Appliances,BrandD,535.73,502,3.8,2.78,1.76,40x18x20 cm,White,Wood,13-08-2022,1 year,Richardson and Sons
+P1126,Scientist,Toys,BrandC,201.74,206,3.4,29.13,2.61,19x30x10 cm,Yellow,Wood,10-01-2023,1 year,Castillo-Dillon
+P1127,Set,Toys,BrandE,435.12,246,2.9,6.78,8.34,19x20x17 cm,Blue,Metal,25-07-2024,1 year,"Allen, Harmon and Davis"
+P1128,Important,Sports,BrandC,632.33,306,2.9,48.4,2.73,25x38x16 cm,Blue,Wood,14-06-2022,2 years,"Gaines, Ware and Gonzalez"
+P1129,Field,Toys,BrandD,300.15,234,2.7,34.61,3.36,16x46x19 cm,Red,Metal,04-11-2022,2 years,"Mathis, Spence and Terrell"
+P1130,Then,Toys,BrandD,262.95,997,4.6,42.59,5.53,28x44x12 cm,Red,Wood,07-05-2022,2 years,Hogan PLC
+P1131,Professor,Sports,BrandC,987.72,361,4.1,12.01,9.59,41x44x18 cm,Red,Plastic,16-07-2022,6 months,Rodriguez-Evans
+P1132,Individual,Sports,BrandB,135.73,232,2.9,36.6,4.05,17x30x16 cm,Yellow,Wood,04-01-2024,2 years,"Fowler, Cox and Baker"
+P1133,Since,Toys,BrandC,300.15,106,3,30.24,2.06,22x15x18 cm,Red,Wood,22-11-2022,2 years,Fitzpatrick-Gray
+P1134,Might,Beauty,BrandB,96.78,494,1.5,46.5,0.55,41x50x12 cm,Blue,Metal,05-02-2024,2 years,"Lamb, Curtis and Woodward"
+P1135,Minute,Beauty,BrandC,636.26,589,1.9,47.39,3.51,11x18x11 cm,Blue,Metal,23-07-2024,6 months,Patel LLC
+P1136,Turn,Sports,BrandA,483.74,588,4.7,0.66,9.94,34x49x19 cm,White,Fabric,19-06-2022,2 years,Harper-Bowen
+P1137,Ground,Books,BrandD,882.51,249,2,40.25,8.66,25x17x14 cm,Black,Fabric,10-11-2024,6 months,"Martinez, Graham and Moss"
+P1138,Us,Apparel,BrandB,849.18,390,1.9,28.56,3.77,21x38x18 cm,Black,Wood,02-09-2024,6 months,"Barnes, Lynn and Shepard"
+P1139,Few,Home Appliances,BrandD,745.67,339,4,23.72,7.49,21x43x18 cm,Blue,Wood,23-05-2024,2 years,Green-Reed
+P1140,Never,Apparel,BrandB,970.18,912,1.7,10.7,4.55,32x13x18 cm,White,Fabric,14-03-2023,6 months,Houston-Davis
+P1141,Involve,Apparel,BrandD,405.86,725,3.3,23.44,4.95,14x19x20 cm,Pink,Metal,03-05-2022,6 months,Garrett-Garcia
+P1142,Fire,Sports,BrandE,225.62,855,1.1,49.74,0.1,37x28x10 cm,Red,Wood,21-12-2022,2 years,Bernard-Lopez
+P1143,Page,Apparel,BrandD,374.31,910,1.6,0.3,1.36,48x14x9 cm,Blue,Plastic,10-04-2023,1 year,Ruiz-Fisher
+P1144,Me,Toys,BrandE,367.24,578,1.3,29.82,3.2,18x33x9 cm,Pink,Fabric,10-05-2022,1 year,"Scott, Moore and Wright"
+P1145,Eye,Books,BrandA,721.09,799,1.9,45.11,4.41,45x31x11 cm,Black,Wood,07-03-2024,2 years,Anderson-Lewis
+P1146,Key,Home Appliances,BrandE,506.66,795,2.4,36.74,7.54,29x23x7 cm,Black,Metal,29-12-2022,2 years,Ray Ltd
+P1147,Dinner,Beauty,BrandA,547.18,431,1.6,25.89,5.78,31x33x20 cm,White,Metal,31-08-2024,1 year,"Mcintyre, Harris and Foster"
+P1148,Region,Electronics,BrandB,672.76,485,2,47,8.45,32x42x18 cm,White,Plastic,16-01-2023,1 year,"Wilson, Smith and Lambert"
+P1149,Behind,Beauty,BrandC,595.64,849,3.8,28.69,7.85,46x38x9 cm,Black,Fabric,14-06-2024,6 months,Cooper-Clay
+P1150,Drug,Home Appliances,BrandC,908.57,931,2.6,40.16,6.77,18x48x19 cm,White,Fabric,04-02-2022,6 months,Gilbert LLC
+P1151,Cost,Books,BrandA,539.59,626,3.2,1.54,2.28,18x13x15 cm,Pink,Wood,31-12-2023,2 years,"Obrien, Martinez and Nunez"
+P1152,Child,Beauty,BrandD,458.24,740,2.2,40.54,7.03,36x16x8 cm,Red,Fabric,20-09-2022,6 months,"Terry, Parsons and Johnson"
+P1153,Fill,Toys,BrandC,396.61,391,3,19.17,4.08,49x33x20 cm,Green,Wood,03-02-2022,2 years,Vazquez Group
+P1154,Tough,Home Appliances,BrandA,870.27,711,4.7,41.53,3.06,39x49x19 cm,Pink,Plastic,27-05-2023,6 months,Jackson Inc
+P1155,Type,Sports,BrandE,724.68,101,4.1,35.86,4.27,22x41x13 cm,Red,Fabric,28-06-2022,6 months,Webb LLC
+P1156,Language,Apparel,BrandB,33.37,624,1.4,20.46,8.03,27x28x5 cm,Yellow,Plastic,19-08-2022,1 year,"Gonzales, Carter and Stephens"
+P1157,Hundred,Home Appliances,BrandC,771.92,152,1.4,28.9,2.85,47x40x5 cm,White,Metal,24-07-2022,1 year,"Whitney, Williams and Maxwell"
+P1158,Enough,Books,BrandC,182.52,525,4.3,41.87,5.37,47x27x6 cm,Blue,Fabric,18-06-2022,1 year,Stanton Group
+P1159,Identify,Home Appliances,BrandB,741.72,840,1.4,10.12,8.63,27x27x5 cm,White,Fabric,30-06-2022,1 year,"Cross, Steele and Martin"
+P1160,Usually,Beauty,BrandD,296.94,547,2.9,48.37,7.68,35x30x20 cm,Pink,Fabric,15-01-2024,1 year,"Casey, Griffith and Harris"
+P1161,Positive,Home Appliances,BrandB,945.62,488,4.5,27.06,4.95,22x47x5 cm,Red,Plastic,08-09-2024,6 months,"Payne, Reyes and Rivera"
+P1162,While,Beauty,BrandC,957.13,232,4.8,17.15,1.32,17x26x9 cm,Red,Fabric,01-05-2023,2 years,Anderson-Willis
+P1163,City,Beauty,BrandE,53.13,153,4.7,12.73,5.07,31x29x17 cm,Black,Fabric,27-06-2024,6 months,"King, Dunn and Cline"
+P1164,Care,Home Appliances,BrandD,238.96,608,3.8,21.19,3.43,41x18x8 cm,Green,Metal,13-10-2024,2 years,"Bender, Ashley and Gray"
+P1165,Mission,Toys,BrandB,721.96,49,3.6,44.64,4.15,20x38x7 cm,Pink,Fabric,13-07-2022,2 years,Mcdaniel-Thompson
+P1166,Road,Sports,BrandE,474.66,645,1.3,29.64,7.05,38x41x14 cm,Blue,Plastic,10-04-2023,1 year,Chen Ltd
+P1167,If,Electronics,BrandE,304.19,560,3.8,20.51,5.7,27x36x14 cm,Red,Fabric,10-03-2022,6 months,Herring-Meadows
+P1168,Option,Electronics,BrandB,331.08,640,2.2,46.85,2.53,25x32x14 cm,Black,Fabric,07-11-2024,6 months,"Elliott, Monroe and Young"
+P1169,Opportunity,Toys,BrandE,892.76,104,3.9,28.65,7.16,40x12x13 cm,Yellow,Fabric,30-11-2022,1 year,Dominguez-Gibson
+P1170,Beautiful,Beauty,BrandD,754.91,706,4,3.19,4.57,26x44x13 cm,Blue,Fabric,16-05-2023,2 years,Copeland PLC
+P1171,Example,Apparel,BrandA,340.34,873,4.2,31.61,8.73,22x26x18 cm,Red,Metal,16-11-2022,1 year,"Rios, Shepherd and Sampson"
+P1172,From,Sports,BrandD,332.07,849,1.8,44.96,3.3,28x44x10 cm,White,Plastic,13-02-2024,2 years,Morris Inc
+P1173,Wrong,Toys,BrandA,884.51,583,1,0.2,9.43,46x45x18 cm,Blue,Fabric,06-10-2023,1 year,Wade Ltd
+P1174,Drop,Electronics,BrandE,911.58,607,4.5,43.46,0.19,40x13x10 cm,Blue,Fabric,10-07-2022,6 months,Watson-Finley
+P1175,Give,Toys,BrandE,618.15,114,4.5,11.68,0.65,11x50x15 cm,Black,Plastic,06-10-2023,2 years,"Velez, Hopkins and Phillips"
+P1176,Capital,Electronics,BrandA,742.36,445,4.7,40.36,1.24,28x46x12 cm,Blue,Metal,02-07-2022,1 year,Thomas-Wu
+P1177,Read,Electronics,BrandC,761.34,693,2.5,38.43,8.55,39x21x15 cm,Blue,Metal,05-08-2022,2 years,"Mccoy, Martinez and Cooper"
+P1178,Morning,Apparel,BrandC,486.39,881,2.3,11.71,9.31,11x15x11 cm,Red,Wood,04-09-2022,2 years,Sanchez-Kane
+P1179,Information,Home Appliances,BrandB,274.36,298,4.1,9.6,1.52,45x15x9 cm,Red,Metal,02-03-2023,6 months,"Perez, Gibbs and Franklin"
+P1180,Position,Apparel,BrandC,967.28,291,4.5,20.61,9.95,49x37x17 cm,Green,Fabric,07-06-2024,1 year,Crawford-Turner
+P1181,You,Home Appliances,BrandE,95.45,282,3.9,12.79,7.95,30x34x9 cm,Blue,Fabric,13-08-2023,1 year,Hanson and Sons
+P1182,Poor,Apparel,BrandE,80.46,16,1.8,41.41,5.36,33x13x9 cm,Red,Metal,04-05-2023,6 months,"Case, Allen and Cline"
+P1183,Hold,Beauty,BrandB,727.97,302,4.6,15.45,9.44,19x44x8 cm,Red,Metal,10-02-2024,1 year,Rodriguez-Villarreal
+P1184,Include,Sports,BrandD,599.77,17,2.6,49.68,8.54,12x17x7 cm,Yellow,Metal,11-12-2023,6 months,Campos Ltd
+P1185,Difference,Sports,BrandC,472.6,448,2.3,7.65,5.01,43x46x19 cm,Yellow,Wood,18-08-2023,2 years,Brown-Fernandez
+P1186,Family,Electronics,BrandC,853.92,774,4,13.87,3.06,23x12x5 cm,Yellow,Metal,10-06-2023,6 months,Ruiz and Sons
+P1187,Not,Home Appliances,BrandB,766.92,870,2.5,4.47,5.32,21x37x5 cm,Blue,Plastic,15-05-2024,6 months,"Rodriguez, Dorsey and Davis"
+P1188,Point,Apparel,BrandB,978.35,588,4.6,48.39,9.16,30x39x14 cm,Black,Metal,15-02-2024,6 months,"Robertson, Fernandez and Yang"
+P1189,Race,Books,BrandD,38.24,444,2.7,21.31,5.84,48x39x19 cm,Black,Wood,12-02-2022,1 year,Thornton-Phillips
+P1190,Friend,Beauty,BrandE,544.78,266,2.8,34.93,7.26,12x38x19 cm,Black,Metal,28-03-2023,2 years,Rodriguez-Hoover
+P1191,Water,Books,BrandB,87.18,582,1.8,6.45,8.23,23x45x11 cm,Yellow,Plastic,28-11-2024,6 months,"Andrews, Thomas and Odom"
+P1192,Executive,Apparel,BrandC,999.11,938,1.2,17.25,6.79,31x29x20 cm,Yellow,Plastic,25-04-2022,2 years,Yoder-Young
+P1193,Tax,Toys,BrandA,111.65,60,3.9,31.84,8.66,29x37x7 cm,Yellow,Plastic,20-01-2023,2 years,Lara-Fisher
+P1194,Family,Books,BrandA,832.9,437,4.9,27.41,7.4,49x31x18 cm,Pink,Wood,08-10-2023,6 months,Greene PLC
+P1195,Close,Sports,BrandE,843.08,740,2.4,16.65,6.98,14x19x5 cm,Blue,Wood,11-11-2022,6 months,Wolf-Mcdaniel
+P1196,Chair,Apparel,BrandD,596.7,608,4.5,14.55,7.68,28x43x7 cm,Pink,Metal,21-11-2022,1 year,"Davidson, Ross and Ward"
+P1197,Expert,Beauty,BrandE,880.41,422,3.5,8.77,4.5,40x40x20 cm,Red,Metal,15-12-2022,2 years,"Velasquez, Chapman and Mclaughlin"
+P1198,Thing,Home Appliances,BrandE,109.56,53,1.6,48.58,8.79,15x11x14 cm,Blue,Wood,28-05-2022,2 years,Miller-Thompson
+P1199,Sea,Toys,BrandD,938.31,914,4.4,23.09,6.43,19x21x8 cm,Pink,Wood,24-06-2023,2 years,Martin-Hernandez
+P1200,Learn,Home Appliances,BrandB,314.87,44,4.5,19.87,3.32,30x42x7 cm,Green,Plastic,04-11-2024,1 year,"Decker, Hernandez and Kline"
+P1201,Edge,Toys,BrandC,620.25,344,3.5,12.3,5.32,13x45x18 cm,Green,Plastic,15-11-2024,1 year,Sellers Group
+P1202,Its,Electronics,BrandA,56.35,525,4.1,10.97,8.15,44x37x19 cm,Green,Metal,17-10-2023,2 years,"Brown, Powell and Johnson"
+P1203,Machine,Beauty,BrandE,730.43,896,4.8,41.75,1.84,26x41x20 cm,Yellow,Wood,07-08-2022,2 years,Castillo-Sanchez
+P1204,Specific,Apparel,BrandD,486.41,609,4.4,9.65,0.81,31x12x15 cm,Blue,Plastic,11-10-2024,2 years,"Vaughn, Collins and Mendez"
+P1205,Report,Toys,BrandA,924.66,45,3.2,32.42,3.48,10x47x6 cm,Blue,Plastic,23-12-2022,6 months,Chavez PLC
+P1206,Effect,Home Appliances,BrandE,719.9,285,4.6,37.42,7.24,22x30x20 cm,Green,Metal,19-11-2023,6 months,Day-Henderson
+P1207,Religious,Apparel,BrandB,405.46,201,2.7,43.29,3.51,26x49x5 cm,Pink,Fabric,20-08-2022,2 years,"Castillo, Reed and Hayes"
+P1208,Quite,Toys,BrandB,346.13,987,1.2,28.56,5.71,11x37x10 cm,Red,Metal,07-09-2024,6 months,Noble and Sons
+P1209,Worry,Books,BrandD,498.04,589,4.1,30.13,1.7,32x30x12 cm,Red,Fabric,23-06-2023,6 months,Frank-Brown
+P1210,Hope,Sports,BrandC,707.99,757,4.8,13.98,5.51,27x22x17 cm,Red,Wood,17-04-2022,2 years,"Henry, Walker and Esparza"
+P1211,Future,Apparel,BrandE,26.18,859,3.7,26.96,9.9,24x16x11 cm,White,Plastic,02-07-2022,6 months,Martin Inc
+P1212,Tough,Apparel,BrandA,547.7,926,1.2,45.15,5.83,41x44x9 cm,Blue,Metal,04-09-2024,1 year,Rush Inc
+P1213,Possible,Home Appliances,BrandD,207.16,177,3.1,47.79,8.05,33x47x13 cm,Green,Metal,28-02-2022,1 year,Combs Group
+P1214,With,Beauty,BrandE,307.26,755,3.6,0.27,7.29,25x25x14 cm,Yellow,Plastic,03-10-2023,1 year,"Doyle, Martin and Salinas"
+P1215,Mission,Apparel,BrandE,978.29,392,2.1,46.09,9.81,28x44x19 cm,Yellow,Wood,25-12-2022,2 years,"Hill, Odonnell and Johnson"
+P1216,Each,Beauty,BrandD,629.28,637,3.4,34.3,4.63,35x40x19 cm,Yellow,Wood,04-09-2024,1 year,"Carter, Brown and Rasmussen"
+P1217,Soldier,Apparel,BrandC,274.81,450,4.8,21.92,9.93,30x23x11 cm,Pink,Plastic,19-07-2023,6 months,"Price, Weber and Richardson"
+P1218,Wife,Toys,BrandA,26.92,515,4.9,11.7,1,31x46x18 cm,Yellow,Plastic,10-02-2023,2 years,Guzman and Sons
+P1219,Long,Electronics,BrandA,637.19,185,4.4,21,1.78,35x44x5 cm,Yellow,Wood,08-11-2024,1 year,Nichols-Rodgers
+P1220,Sister,Apparel,BrandD,199.6,413,2.6,18.62,7,20x34x5 cm,Black,Wood,18-08-2024,6 months,"Hensley, Huerta and Anthony"
+P1221,Case,Home Appliances,BrandE,937.67,992,2.6,23.39,3.48,10x18x6 cm,Green,Fabric,12-10-2024,6 months,Diaz and Sons
+P1222,Impact,Home Appliances,BrandA,91.3,54,4.7,35.78,0.14,49x48x7 cm,Black,Fabric,25-07-2024,1 year,"Castillo, Hoffman and Bennett"
+P1223,Real,Beauty,BrandC,641.21,552,4.3,33.33,8.9,12x49x16 cm,Yellow,Metal,09-02-2022,6 months,Morales-Martinez
+P1224,Race,Sports,BrandA,64.09,334,4.7,43.55,3.15,20x50x14 cm,Yellow,Metal,07-06-2023,6 months,"Robinson, Rodriguez and Osborne"
+P1225,This,Toys,BrandB,254.34,723,1.5,7.17,2.63,24x36x18 cm,Black,Fabric,19-09-2022,6 months,Marshall-Nelson
+P1226,Total,Toys,BrandA,887.16,203,4.4,9.73,3,47x28x5 cm,Blue,Plastic,04-08-2023,6 months,"Hardy, Taylor and Wallace"
+P1227,Color,Beauty,BrandC,95.57,179,4.3,5.94,4.25,24x41x14 cm,Pink,Metal,30-11-2022,1 year,Lopez-Walsh
+P1228,Enjoy,Books,BrandE,26.95,335,1.7,28.93,4.81,44x11x9 cm,Red,Plastic,01-11-2022,6 months,"Johnson, Lynch and Kelly"
+P1229,Black,Toys,BrandC,397.16,398,1,26.69,1.39,20x48x10 cm,Black,Metal,02-10-2023,6 months,"Watson, Bell and Bradley"
+P1230,Clear,Toys,BrandA,261.21,222,4.3,5,7.09,24x40x19 cm,Blue,Fabric,19-02-2022,1 year,Ferrell and Sons
+P1231,Republican,Electronics,BrandB,302.05,679,4.2,4.95,1.24,40x44x10 cm,White,Fabric,12-12-2023,6 months,Adams-Martinez
+P1232,Big,Electronics,BrandD,303.4,982,3.3,9.49,5.94,47x10x19 cm,Black,Fabric,31-10-2022,2 years,Stanley Group
+P1233,Amount,Toys,BrandD,266.15,402,3.8,28.56,6.9,38x27x12 cm,Red,Wood,07-03-2022,6 months,Hull Group
+P1234,Bank,Electronics,BrandA,421.83,219,2.5,25.03,9.05,31x47x17 cm,White,Plastic,19-11-2024,1 year,Brooks PLC
+P1235,Rock,Home Appliances,BrandC,375.94,820,2.7,36.84,5.4,28x35x11 cm,Black,Wood,06-07-2023,2 years,Gomez-Aguilar
+P1236,Loss,Beauty,BrandB,171.12,478,2.4,43.22,2.74,39x31x11 cm,Yellow,Plastic,08-11-2022,6 months,Valdez and Sons
+P1237,Begin,Beauty,BrandA,386.21,144,4.1,4.85,7.88,38x37x16 cm,Red,Metal,07-03-2023,2 years,Jensen PLC
+P1238,Evening,Sports,BrandE,963.56,697,2.4,49.16,1.64,46x18x12 cm,Red,Wood,18-03-2022,1 year,Holland Inc
+P1239,Suddenly,Toys,BrandB,538.71,125,2.1,41.54,9.1,19x25x16 cm,Green,Metal,10-12-2023,2 years,Hawkins Inc
+P1240,Sea,Home Appliances,BrandE,267.63,863,1.1,42.13,4.4,23x42x8 cm,White,Wood,11-12-2022,1 year,Cummings PLC
+P1241,Listen,Books,BrandD,677.89,259,3.6,8.76,4.16,32x39x5 cm,Red,Metal,30-11-2022,6 months,Shields-Williams
+P1242,Anyone,Toys,BrandB,643.44,901,2.8,30.48,3.86,20x41x15 cm,Red,Wood,23-02-2024,1 year,Hester PLC
+P1243,Reason,Books,BrandB,590.48,570,2.4,38.94,9.72,28x39x5 cm,Blue,Wood,02-11-2022,1 year,Hudson Group
+P1244,Here,Sports,BrandC,959.1,740,1.4,19.72,4.4,15x34x10 cm,White,Metal,19-11-2024,1 year,Powell PLC
+P1245,Perform,Apparel,BrandA,428.06,984,2,20.31,2.32,17x28x13 cm,Red,Plastic,15-01-2024,1 year,Krueger-Aguilar
+P1246,Anyone,Toys,BrandC,62.78,71,4.5,18.1,2.12,24x30x12 cm,Green,Plastic,28-10-2023,6 months,Drake-Marks
+P1247,Camera,Toys,BrandA,529.42,358,4,29.38,8.53,15x16x10 cm,Black,Fabric,04-01-2025,1 year,"Kelly, Avery and Cole"
+P1248,Able,Electronics,BrandB,628.44,593,1.3,9.04,1.43,49x50x20 cm,Pink,Fabric,17-11-2023,6 months,West LLC
+P1249,Research,Beauty,BrandC,842.66,105,4.7,18.85,6.93,33x11x12 cm,Pink,Metal,22-03-2022,1 year,"Camacho, Huffman and Chase"
+P1250,Third,Beauty,BrandD,761.01,329,3.5,35.52,6.91,30x14x5 cm,Blue,Plastic,17-10-2023,2 years,Wilson LLC
+P1251,Development,Toys,BrandC,248.05,562,2.7,42.22,5.58,19x19x6 cm,White,Wood,23-05-2022,1 year,"Rodriguez, Brooks and Obrien"
+P1252,Sometimes,Home Appliances,BrandC,817.64,113,4.6,3.62,7.47,38x50x16 cm,Red,Metal,28-09-2023,6 months,Roach-Wilson
+P1253,Away,Home Appliances,BrandA,893.2,331,1.8,48.57,7.58,15x25x8 cm,Black,Metal,31-08-2022,1 year,"Stevenson, Poole and Munoz"
+P1254,Country,Apparel,BrandD,798.19,23,3.4,16.22,7.82,36x10x9 cm,Black,Fabric,08-01-2023,6 months,Crawford and Sons
+P1255,Bed,Books,BrandC,469.82,50,2.3,26.01,0.14,44x22x8 cm,Black,Fabric,24-10-2023,1 year,Jacobs-Garcia
+P1256,Bank,Apparel,BrandC,175.48,600,1.7,39.15,7.06,13x30x9 cm,Black,Wood,13-01-2023,1 year,Padilla-Anderson
+P1257,Rule,Toys,BrandA,984.16,183,1,18.53,7.13,22x45x14 cm,Green,Metal,21-04-2024,1 year,"Jordan, Johnson and Black"
+P1258,Mind,Home Appliances,BrandE,238.26,46,1.4,22.67,6.25,20x35x9 cm,White,Wood,12-08-2023,2 years,"Jordan, Jackson and Richards"
+P1259,Teach,Books,BrandC,367.2,654,5,46.55,3.44,41x50x16 cm,Red,Wood,08-04-2022,2 years,Hunt-Ramirez
+P1260,Anything,Books,BrandB,841.88,829,3.7,28.76,9.95,13x35x13 cm,Green,Plastic,30-04-2023,6 months,"Olson, Graves and Medina"
+P1261,Sea,Sports,BrandD,262.56,396,4.2,28.78,8.46,40x11x12 cm,Black,Wood,14-09-2024,1 year,Ortega-Ferguson
+P1262,Current,Beauty,BrandE,977.29,794,3.5,25.78,6.55,35x23x13 cm,Red,Metal,09-04-2023,6 months,Blevins-Wilcox
+P1263,Stuff,Books,BrandC,810.63,257,3,25.6,3.45,30x14x13 cm,Green,Wood,16-09-2022,1 year,Ortiz-Herrera
+P1264,Try,Books,BrandA,730.39,883,2.5,30.72,5.31,38x41x12 cm,White,Plastic,25-09-2024,6 months,Walker Group
+P1265,Middle,Sports,BrandC,782.03,360,1.1,49.05,6.76,28x15x10 cm,Black,Wood,25-07-2023,2 years,"Jones, King and Pittman"
+P1266,Amount,Home Appliances,BrandE,382.82,578,2.1,30.97,3.62,43x19x14 cm,Red,Plastic,22-08-2024,2 years,"Berger, Lee and Bowman"
+P1267,Relate,Toys,BrandE,120.52,513,1.2,21.21,5.29,10x33x12 cm,Red,Wood,14-06-2024,1 year,Johnson-Roberts
+P1268,Anything,Toys,BrandC,941.17,876,2.6,25.47,5.22,45x50x8 cm,Yellow,Metal,16-09-2024,1 year,"Krueger, Pratt and Jordan"
+P1269,Training,Books,BrandD,736.83,267,1,26.86,5.95,16x50x14 cm,Black,Wood,01-06-2022,1 year,"Campbell, Smith and Martin"
+P1270,Discover,Home Appliances,BrandE,766.41,337,4.2,14.27,6.91,29x46x13 cm,Red,Fabric,01-11-2024,1 year,Schultz Group
+P1271,Food,Home Appliances,BrandA,787.82,453,2.3,18.03,0.55,35x46x18 cm,Pink,Fabric,15-10-2022,2 years,Moore-Parker
+P1272,Watch,Beauty,BrandE,297.63,187,4.7,31.72,4.11,48x11x11 cm,Green,Wood,13-09-2022,1 year,"Williams, Logan and Wright"
+P1273,Oil,Books,BrandB,958.45,908,1.2,17.06,0.64,24x50x9 cm,Blue,Wood,06-10-2024,2 years,Camacho PLC
+P1274,Step,Home Appliances,BrandE,442.63,339,2.6,30.96,9.52,30x23x5 cm,Red,Metal,09-06-2023,2 years,Leblanc PLC
+P1275,Here,Apparel,BrandA,131.69,424,1.5,18.25,1.8,13x29x7 cm,Blue,Fabric,26-07-2022,1 year,Richardson LLC
+P1276,Realize,Toys,BrandC,439.72,220,4.2,14.09,4.9,50x11x9 cm,Red,Metal,09-12-2022,6 months,"Green, Maddox and Reid"
+P1277,Bit,Apparel,BrandD,145.93,679,1.4,13.25,0.42,31x20x12 cm,Red,Fabric,21-09-2023,1 year,Jackson Group
+P1278,Control,Electronics,BrandA,328.41,46,2.3,25.7,7.54,23x40x16 cm,White,Fabric,13-08-2022,2 years,Rogers and Sons
+P1279,Our,Beauty,BrandD,232.45,937,1.1,37.49,9.62,23x42x9 cm,Blue,Plastic,15-08-2022,2 years,"Stuart, Hale and Walters"
+P1280,Court,Toys,BrandA,895.8,880,1.5,28.34,2.25,21x44x15 cm,Yellow,Plastic,26-03-2022,6 months,Archer LLC
+P1281,Technology,Beauty,BrandC,461.58,105,2.2,5.52,9.72,46x21x7 cm,Blue,Wood,20-05-2024,1 year,Owens-Scott
+P1282,His,Home Appliances,BrandB,656.72,661,2.3,34.54,0.94,34x33x9 cm,Yellow,Metal,12-01-2023,6 months,"Long, Taylor and Watson"
+P1283,Them,Sports,BrandE,204.52,555,4.1,12.54,5.96,32x49x9 cm,Green,Plastic,26-06-2023,1 year,Gutierrez-Small
+P1284,Guy,Electronics,BrandA,304.54,141,4.2,39.2,8.31,23x25x15 cm,Green,Fabric,28-08-2022,1 year,Thomas PLC
+P1285,Mouth,Home Appliances,BrandB,101.21,471,3.1,20.54,9.1,39x39x10 cm,Pink,Metal,19-04-2024,6 months,Gonzalez Inc
+P1286,Leader,Apparel,BrandC,591.4,257,4.1,19.75,0.69,16x32x16 cm,Green,Wood,11-01-2023,1 year,"Taylor, Jennings and Ponce"
+P1287,Need,Toys,BrandA,637.74,385,4.8,40.45,3.5,40x10x6 cm,Pink,Wood,27-09-2022,1 year,Roth-Chan
+P1288,Try,Books,BrandB,685,386,2.8,33.52,9.3,20x18x12 cm,Black,Wood,06-06-2023,6 months,Marshall Group
+P1289,Provide,Home Appliances,BrandE,562.78,736,2.3,19.59,9.68,25x31x18 cm,White,Plastic,29-03-2024,6 months,"Harrell, Sheppard and Brady"
+P1290,Gun,Home Appliances,BrandA,432.04,269,1.5,44.26,5.71,48x32x20 cm,Black,Wood,27-02-2022,6 months,Anderson-Wang
+P1291,Chair,Home Appliances,BrandA,430.42,691,3.6,41.74,2.03,39x41x7 cm,Red,Plastic,02-09-2023,1 year,"Moss, Castro and Rojas"
+P1292,Firm,Home Appliances,BrandE,537.43,940,4.4,20.76,6.02,47x22x5 cm,Blue,Wood,13-04-2023,1 year,Jackson-Lopez
+P1293,Instead,Books,BrandC,733.37,542,4.3,7.2,7.65,39x42x6 cm,Red,Metal,12-06-2024,1 year,"Salazar, Avery and Dickerson"
+P1294,Character,Books,BrandC,477.61,581,4.2,8.8,4.18,48x41x20 cm,Black,Metal,13-09-2022,1 year,Russell-Carrillo
+P1295,Throughout,Books,BrandE,711.36,209,2.8,16.75,6.62,48x32x16 cm,Pink,Wood,25-04-2024,2 years,Diaz-Larsen
+P1296,Economic,Beauty,BrandD,552.75,919,1.6,16.35,3.62,21x33x16 cm,Pink,Plastic,08-10-2024,1 year,Wilson-Obrien
+P1297,American,Apparel,BrandD,916.04,997,3.9,28.54,3.95,34x30x15 cm,Black,Wood,22-09-2022,2 years,"Kelley, Bradley and Smith"
+P1298,Clearly,Sports,BrandC,138.19,24,4.5,12.5,0.48,25x42x6 cm,White,Metal,28-09-2024,6 months,Alexander LLC
+P1299,Write,Beauty,BrandD,848.64,168,1.6,38.07,6.89,49x16x5 cm,Red,Fabric,26-03-2023,1 year,"Scott, Newton and Gallagher"
+P1300,Natural,Toys,BrandE,422.36,41,2.4,29.3,4.84,24x36x9 cm,Blue,Plastic,30-07-2023,6 months,"Gregory, Brown and Johnston"
+P1301,Determine,Beauty,BrandA,269.14,231,1.7,8.03,5.78,23x13x10 cm,Yellow,Wood,18-05-2024,6 months,"Williams, Stanley and Newton"
+P1302,Learn,Beauty,BrandB,746.44,503,1.6,41.01,6.46,20x13x17 cm,Pink,Metal,31-03-2023,2 years,Diaz-Thomas
+P1303,Total,Electronics,BrandB,861.61,953,4.2,18.54,2.77,49x17x5 cm,Black,Plastic,09-03-2024,6 months,Quinn-Davis
+P1304,South,Home Appliances,BrandA,673.61,22,1.7,28.46,5.07,34x20x16 cm,Blue,Plastic,08-12-2024,1 year,Stewart-Mcfarland
+P1305,Resource,Apparel,BrandB,565.6,490,1.9,35.01,0.38,47x50x19 cm,Black,Fabric,10-07-2022,2 years,Cross-Black
+P1306,Interest,Apparel,BrandE,81.74,592,2.1,13.2,0.23,41x17x14 cm,Black,Metal,06-09-2024,1 year,"Roach, Vaughan and Schroeder"
+P1307,Radio,Home Appliances,BrandA,154.65,550,3.4,22.98,7.8,42x16x5 cm,Red,Plastic,20-02-2024,6 months,Clark LLC
+P1308,Kind,Home Appliances,BrandC,480.97,347,2.6,32.24,2.88,32x13x12 cm,Green,Metal,13-08-2024,6 months,"Jackson, Flores and Boyd"
+P1309,Page,Apparel,BrandD,520.93,681,1.7,22.22,1.85,42x34x12 cm,White,Plastic,02-11-2023,1 year,Parker Ltd
+P1310,Institution,Sports,BrandE,808.68,913,3.4,34.04,8.91,15x49x9 cm,Green,Plastic,07-06-2024,1 year,Mcdowell-Alvarez
+P1311,Quickly,Sports,BrandC,629.62,706,2.4,30.02,1.82,40x19x11 cm,White,Fabric,03-01-2025,1 year,Dixon-Sims
+P1312,National,Books,BrandC,87.37,655,1.6,34.12,9.09,23x27x18 cm,White,Metal,13-04-2022,2 years,Smith-Jackson
+P1313,Find,Home Appliances,BrandC,471.56,834,1.3,24.27,5.69,31x34x9 cm,White,Metal,01-11-2022,2 years,Lewis Inc
+P1314,Sense,Home Appliances,BrandA,795.07,940,3.7,38.7,1.3,36x41x11 cm,Red,Plastic,15-07-2024,1 year,Rios LLC
+P1315,Others,Apparel,BrandB,606.48,766,1.7,47.77,5.08,38x12x19 cm,Black,Fabric,31-07-2024,6 months,Allison-Craig
+P1316,Worker,Sports,BrandC,274.63,963,1.4,12.67,2.83,34x12x15 cm,Green,Wood,11-08-2024,1 year,Owens and Sons
+P1317,Statement,Apparel,BrandE,172.7,364,3.7,44.62,5,50x16x14 cm,Blue,Fabric,11-11-2023,6 months,"Reed, Hill and Hernandez"
+P1318,Bank,Beauty,BrandC,373.47,759,3.5,17.98,8.72,45x16x19 cm,White,Wood,27-10-2024,6 months,Bishop-Hall
+P1319,First,Apparel,BrandB,323.63,598,2.2,44.08,7.66,16x25x14 cm,White,Metal,11-03-2022,6 months,Bryant-Wilson
+P1320,Direction,Electronics,BrandC,447.33,750,3.5,27.05,3.25,35x31x10 cm,Pink,Metal,03-02-2022,1 year,"Mccoy, Ruiz and Armstrong"
+P1321,Teach,Beauty,BrandB,44.3,993,4.4,1.94,8.64,20x40x16 cm,Black,Metal,30-11-2024,1 year,Glenn-Haas
+P1322,Big,Electronics,BrandB,752.42,206,1.5,46.14,2.36,12x39x9 cm,White,Metal,01-02-2024,2 years,Kirby Group
+P1323,Clearly,Electronics,BrandE,944.35,717,2.8,12.11,1.12,24x30x15 cm,White,Fabric,10-04-2024,2 years,Middleton Ltd
+P1324,Concern,Beauty,BrandA,590.56,92,2.7,34.67,0.8,46x47x7 cm,Green,Plastic,07-04-2022,6 months,Mueller-Gallagher
+P1325,Cold,Electronics,BrandA,842.28,715,4.6,32.44,5.92,29x37x9 cm,Red,Plastic,07-08-2023,2 years,"Green, Lee and Herrera"
+P1326,General,Toys,BrandE,675.52,484,2.8,20.77,1.72,23x22x11 cm,Yellow,Wood,19-01-2022,2 years,"Gomez, Fuller and Pope"
+P1327,Forward,Toys,BrandB,67.23,244,1.2,49.78,5.5,20x30x7 cm,White,Wood,15-04-2024,6 months,"Robinson, Russell and Howard"
+P1328,Eight,Books,BrandB,826.76,16,1.8,30.14,8.51,25x22x18 cm,Yellow,Wood,01-09-2022,2 years,Davis-Davis
+P1329,Explain,Sports,BrandC,607.52,926,3.5,23.34,2.33,23x47x7 cm,Black,Metal,04-09-2023,6 months,Forbes Ltd
+P1330,City,Home Appliances,BrandD,279.4,559,2.3,18.93,1.72,50x50x19 cm,Red,Metal,24-05-2024,1 year,"Wiley, Blevins and Parker"
+P1331,Behavior,Electronics,BrandC,432.74,964,4.7,28.67,1.43,15x11x8 cm,Blue,Metal,16-06-2022,6 months,Molina and Sons
+P1332,Happen,Electronics,BrandD,830.52,695,3.7,47.73,0.63,44x14x16 cm,White,Fabric,28-05-2023,6 months,"Larsen, Owens and Potts"
+P1333,Talk,Toys,BrandD,869.71,518,4.5,19.68,9.39,50x50x12 cm,Blue,Metal,08-03-2024,2 years,"Cameron, Clay and Bishop"
+P1334,Whom,Beauty,BrandC,901.07,972,1.7,19.61,2.53,29x30x11 cm,Blue,Plastic,21-11-2023,2 years,Roberson Ltd
+P1335,Special,Home Appliances,BrandB,104.73,384,4.1,3.23,7.47,34x10x14 cm,Red,Wood,11-07-2022,2 years,Lopez PLC
+P1336,Say,Sports,BrandD,345.17,998,3.3,44.53,1.22,47x16x16 cm,Pink,Wood,09-11-2022,6 months,Bishop Inc
+P1337,Trial,Beauty,BrandA,483.86,223,4.1,5.55,5.75,38x17x15 cm,Blue,Fabric,03-07-2023,6 months,Carter LLC
+P1338,Throw,Electronics,BrandB,505.77,733,1.8,20.08,9.59,32x31x14 cm,White,Wood,30-03-2022,1 year,Baker PLC
+P1339,Spend,Home Appliances,BrandB,644.31,111,4.9,6.92,3.77,50x29x17 cm,Black,Fabric,18-03-2023,2 years,"Wise, Pacheco and Meyers"
+P1340,Agency,Toys,BrandC,38.35,716,4,29.65,3.9,25x34x15 cm,Red,Metal,28-09-2023,1 year,Barnes-Davidson
+P1341,Occur,Sports,BrandB,974.1,616,2.8,29.22,2.45,24x43x8 cm,Yellow,Wood,22-04-2024,2 years,Johnson-Miller
+P1342,Do,Toys,BrandD,827.25,775,1.6,39.54,4.04,14x27x12 cm,Red,Wood,07-08-2023,6 months,"Ramirez, Morris and Mcguire"
+P1343,When,Books,BrandC,140.59,641,2.6,17.3,6.84,16x45x17 cm,Green,Fabric,03-01-2024,6 months,"Thompson, Jensen and Harris"
+P1344,Mouth,Toys,BrandE,272.02,332,2.9,43.02,6.04,44x28x8 cm,White,Plastic,07-11-2024,2 years,"Johnson, Klein and Calderon"
+P1345,Debate,Toys,BrandC,695.14,331,4,14.12,3.18,21x41x18 cm,Blue,Metal,23-06-2023,2 years,"Smith, Jacobs and Smith"
+P1346,Ago,Home Appliances,BrandC,264.32,300,2.2,26,7.97,46x12x5 cm,Black,Plastic,05-02-2022,2 years,"Hunter, Carter and Anderson"
+P1347,Key,Home Appliances,BrandD,527.3,515,2.9,7.54,6.84,50x28x9 cm,Black,Wood,09-11-2023,6 months,Garcia PLC
+P1348,Them,Electronics,BrandE,617.4,244,3.7,49.18,5.25,12x38x7 cm,Green,Metal,10-12-2024,2 years,Murray and Sons
+P1349,Report,Beauty,BrandD,253.21,206,1.9,42.57,8.44,27x49x15 cm,Black,Metal,16-04-2022,6 months,Rodriguez-Williams
+P1350,Sea,Home Appliances,BrandA,550.02,652,1.7,25.21,9.07,20x40x16 cm,White,Fabric,26-09-2023,6 months,Tanner LLC
+P1351,Cup,Apparel,BrandB,469.67,266,3,3.85,4.39,38x35x10 cm,Red,Fabric,22-07-2024,1 year,Gray Ltd
+P1352,Most,Sports,BrandD,771.48,917,1.7,2.52,2.29,15x23x9 cm,Black,Fabric,23-10-2023,1 year,Stafford LLC
+P1353,Degree,Beauty,BrandD,288.84,415,2.5,4.28,8.23,18x37x19 cm,Pink,Metal,05-11-2022,2 years,"Bass, Shannon and Sherman"
+P1354,Kitchen,Electronics,BrandB,341.38,930,1.5,14.01,1.41,10x12x13 cm,White,Metal,13-10-2023,6 months,"Christian, Tucker and Harris"
+P1355,By,Home Appliances,BrandA,60.01,935,1.6,18.84,6.22,16x44x10 cm,Pink,Fabric,09-04-2022,6 months,"Lopez, Scott and Jones"
+P1356,Democrat,Books,BrandE,763.93,679,1.9,16.34,7.78,43x30x20 cm,Pink,Metal,12-10-2024,2 years,"Cardenas, Randolph and Walters"
+P1357,Eight,Electronics,BrandD,446.54,660,4.8,20.03,2.85,48x30x11 cm,Blue,Metal,21-07-2022,1 year,"Morris, Rose and Miranda"
+P1358,Least,Toys,BrandA,924.95,997,3,17.52,1.59,30x24x17 cm,Green,Metal,05-02-2024,1 year,Deleon-Cisneros
+P1359,Lay,Beauty,BrandD,704.45,912,3.1,16.72,5.9,33x34x10 cm,Yellow,Wood,14-12-2024,6 months,Solis PLC
+P1360,Answer,Apparel,BrandB,723.48,547,2.5,11.82,0.3,40x34x20 cm,Yellow,Metal,05-06-2023,6 months,"Miller, Adams and Wallace"
+P1361,Employee,Books,BrandE,343.53,151,4.7,12.93,4.09,18x49x14 cm,Black,Plastic,11-07-2024,6 months,Johnson-Davis
+P1362,Policy,Apparel,BrandE,824.58,947,1.3,36.26,4.46,18x47x12 cm,Green,Wood,21-07-2024,6 months,"Powell, Gordon and Baker"
+P1363,Phone,Beauty,BrandD,110.89,497,1.6,9.32,7.05,39x17x7 cm,Green,Plastic,21-03-2024,1 year,"Dixon, Ramos and Kirk"
+P1364,For,Home Appliances,BrandC,191.82,839,2.2,25.04,6.31,11x44x9 cm,Black,Metal,15-07-2022,6 months,Frazier and Sons
+P1365,Suggest,Beauty,BrandB,983.28,949,1.4,29.44,4.84,32x43x12 cm,Pink,Metal,02-11-2023,2 years,"Sullivan, Clements and Frederick"
+P1366,Race,Home Appliances,BrandE,423.03,726,3.8,11.98,1.22,11x40x8 cm,Blue,Plastic,15-02-2022,1 year,Brooks Ltd
+P1367,Create,Home Appliances,BrandB,209.56,851,1.4,12,2.02,30x50x20 cm,White,Metal,26-04-2023,2 years,"Wong, Peck and Mullins"
+P1368,Account,Sports,BrandC,764.23,253,1.8,34.73,4.61,45x42x9 cm,White,Wood,14-09-2023,6 months,"Collier, Jackson and Duarte"
+P1369,Exactly,Home Appliances,BrandB,404.37,475,4.6,42.44,4.34,30x34x19 cm,White,Wood,10-04-2023,2 years,Brown-Washington
+P1370,Now,Beauty,BrandD,369.48,986,1.5,10.06,9.74,46x41x18 cm,Red,Wood,16-05-2024,2 years,"Lozano, Roman and Pitts"
+P1371,Day,Books,BrandB,791.57,870,4.1,8.19,3.58,40x19x18 cm,Black,Wood,27-09-2022,6 months,Smith and Sons
+P1372,Peace,Books,BrandD,177.64,729,4.9,32.43,7.48,30x24x18 cm,Pink,Fabric,27-02-2023,1 year,Woodard Ltd
+P1373,Chance,Home Appliances,BrandE,315.88,733,2.6,19.55,4.39,13x42x17 cm,White,Plastic,22-09-2022,1 year,Morales-Daniels
+P1374,Take,Apparel,BrandB,709.77,686,3.5,41.41,8.24,18x38x10 cm,Pink,Plastic,23-11-2022,1 year,Beck-Patterson
+P1375,Charge,Books,BrandB,596.85,367,4,27.09,4.67,25x19x18 cm,Red,Plastic,03-07-2022,6 months,"Cowan, Williams and Lucas"
+P1376,Family,Toys,BrandC,200.55,324,3.7,36.33,6.79,16x29x17 cm,Green,Wood,25-03-2024,2 years,Fernandez LLC
+P1377,Method,Home Appliances,BrandE,506.53,576,4.1,6.99,2.39,42x13x8 cm,Black,Wood,01-04-2023,6 months,"Miller, Patterson and Joseph"
+P1378,Glass,Books,BrandD,392.75,788,2.1,47.1,9.51,40x17x13 cm,Green,Wood,16-04-2024,1 year,"Gonzalez, James and Aguilar"
+P1379,Method,Beauty,BrandB,681.72,93,3.9,7.91,4.28,16x14x16 cm,Red,Metal,16-11-2023,1 year,Garcia-King
+P1380,Watch,Apparel,BrandB,782.27,621,2.4,8.06,0.56,20x16x19 cm,Red,Metal,26-03-2023,2 years,"Smith, Phillips and Huang"
+P1381,South,Beauty,BrandD,805.47,197,2.3,26.5,3.21,42x13x5 cm,White,Fabric,17-09-2023,2 years,White LLC
+P1382,Hair,Electronics,BrandC,281.79,966,3.2,13.96,4.44,11x11x15 cm,Red,Metal,04-06-2022,1 year,Nelson-Anderson
+P1383,Glass,Beauty,BrandD,792.63,196,4,9.56,5.35,39x50x20 cm,Yellow,Fabric,05-08-2022,1 year,"Henderson, Gibson and Tapia"
+P1384,Heart,Beauty,BrandE,966.26,466,1.9,5.58,6.71,40x12x13 cm,Black,Metal,14-08-2024,6 months,Collins Group
+P1385,Street,Electronics,BrandE,887.43,488,3,43.41,0.91,37x23x13 cm,Yellow,Metal,14-06-2023,1 year,"Fernandez, Moore and Robinson"
+P1386,See,Electronics,BrandC,985.07,693,2.6,21.38,3.57,34x26x19 cm,Pink,Fabric,31-03-2024,1 year,Davis LLC
+P1387,Control,Books,BrandD,957.74,176,4.2,27.36,5.59,21x36x11 cm,White,Metal,03-08-2022,2 years,Hernandez-Thomas
+P1388,Spend,Beauty,BrandA,362.4,556,4.1,4.17,4.01,25x37x17 cm,Pink,Wood,24-02-2022,6 months,"Vargas, Wang and Austin"
+P1389,Rock,Beauty,BrandE,891.93,757,4.6,44.31,8.08,26x38x6 cm,Black,Fabric,13-07-2022,1 year,Mason PLC
+P1390,Of,Sports,BrandB,163.05,694,2.9,46.46,9.91,42x49x20 cm,Black,Fabric,20-03-2023,6 months,"Burnett, Anderson and Ramsey"
+P1391,Ground,Apparel,BrandB,627.16,413,2.3,23.86,7.03,42x42x11 cm,Green,Wood,18-06-2023,2 years,Murray-Brown
+P1392,Mrs,Books,BrandD,850.76,763,1.3,28.36,6.2,22x33x13 cm,Pink,Metal,28-06-2022,6 months,Brock-Hawkins
+P1393,Whom,Home Appliances,BrandB,96.65,48,4.5,25.52,0.24,14x17x13 cm,Red,Plastic,17-09-2023,6 months,Page Inc
+P1394,Play,Sports,BrandA,851.42,64,2.5,9.72,8.63,28x13x12 cm,Green,Metal,11-12-2024,6 months,Flynn-Johnson
+P1395,War,Books,BrandA,646.25,918,1.7,41.39,4.52,26x27x18 cm,Yellow,Metal,05-12-2022,6 months,Evans-Turner
+P1396,Candidate,Home Appliances,BrandD,524.6,680,1.2,20.88,4.49,35x33x10 cm,White,Metal,05-12-2022,6 months,"Wilson, Grant and Jones"
+P1397,I,Sports,BrandB,702.9,944,3.2,21.19,7.73,14x46x16 cm,Pink,Wood,13-04-2023,1 year,Jones Group
+P1398,Show,Electronics,BrandE,850.23,762,3.3,43.82,8.24,19x21x18 cm,White,Wood,24-10-2022,2 years,"West, Garrett and Logan"
+P1399,Money,Books,BrandC,485.73,298,4.7,30.78,4.46,49x38x14 cm,Black,Plastic,02-08-2023,6 months,Davis Group
+P1400,Truth,Home Appliances,BrandB,527.49,31,4.2,40.14,1.57,45x15x11 cm,Blue,Plastic,05-01-2024,2 years,Page-Carson
+P1401,Common,Toys,BrandE,992.27,882,4.7,15.46,9.35,38x23x7 cm,Pink,Fabric,22-10-2023,2 years,"Ramos, Anderson and Walker"
+P1402,Throughout,Beauty,BrandB,364.5,119,3.7,47.05,4.48,18x33x13 cm,Red,Fabric,29-09-2022,2 years,"Terry, Estes and Suarez"
+P1403,Maintain,Sports,BrandB,757.01,51,4.6,15.51,9.75,25x44x10 cm,Yellow,Fabric,30-06-2024,2 years,"Hill, Mcdonald and Flores"
+P1404,Front,Apparel,BrandD,468.65,373,4.6,18.45,1.54,24x38x14 cm,Blue,Wood,16-06-2022,2 years,"Chen, Anderson and Salazar"
+P1405,Try,Beauty,BrandD,631.56,566,1.3,27.19,3.23,27x25x11 cm,Black,Fabric,28-11-2022,1 year,"Olson, Rollins and Peters"
+P1406,Respond,Beauty,BrandB,673.57,467,3.4,39.14,3.72,22x29x10 cm,Blue,Wood,11-01-2023,2 years,Garcia-Sexton
+P1407,Culture,Beauty,BrandB,942.91,487,1.6,34.94,6.63,18x26x16 cm,Pink,Metal,27-04-2023,6 months,King-Holt
+P1408,Center,Toys,BrandC,195.49,489,3,37.44,9.08,44x31x19 cm,Pink,Metal,13-11-2022,2 years,"Keller, Michael and Walters"
+P1409,Stock,Beauty,BrandB,270.17,326,1.1,22.31,7.55,36x29x12 cm,Black,Metal,13-02-2022,6 months,Combs and Sons
+P1410,Reveal,Beauty,BrandE,66.08,716,2,13.41,1.01,11x39x19 cm,Yellow,Fabric,20-02-2024,1 year,Johnson PLC
+P1411,Woman,Electronics,BrandD,639.02,694,3.1,12.88,6.62,48x27x8 cm,Green,Plastic,17-02-2022,6 months,King and Sons
+P1412,Case,Beauty,BrandB,758.83,672,4.7,39.92,4.54,25x23x16 cm,Green,Metal,08-01-2023,6 months,Soto Group
+P1413,Young,Sports,BrandB,724.31,554,3.8,16.5,3.46,17x50x20 cm,Pink,Fabric,25-09-2022,6 months,Trevino PLC
+P1414,Step,Electronics,BrandD,59.24,977,4.7,45,6.64,34x12x20 cm,Black,Fabric,26-07-2023,2 years,Tanner Inc
+P1415,Mind,Home Appliances,BrandC,898.75,484,2.1,44.34,10,13x13x9 cm,Yellow,Plastic,01-09-2022,1 year,Green and Sons
+P1416,Pay,Sports,BrandD,84.04,890,4.1,47.16,2.91,47x48x9 cm,Green,Fabric,28-01-2024,2 years,Gray Group
+P1417,Product,Books,BrandE,677.27,435,2.2,39.38,2.29,47x12x15 cm,Yellow,Plastic,27-01-2022,2 years,Williams-James
+P1418,Big,Apparel,BrandA,854.74,155,3.9,14.42,5.04,28x30x14 cm,Black,Metal,11-12-2022,6 months,"Jenkins, Smith and Collins"
+P1419,People,Electronics,BrandD,709.48,224,2.9,46.66,4.02,16x12x13 cm,Yellow,Metal,30-04-2022,6 months,Alvarez LLC
+P1420,Trip,Toys,BrandC,504.87,37,4.3,29.36,9.35,45x39x18 cm,White,Plastic,23-02-2022,1 year,"Perez, Lopez and Taylor"
+P1421,Difficult,Electronics,BrandE,108.41,261,2.9,4.1,3.43,33x34x9 cm,Blue,Plastic,15-03-2024,1 year,"Gates, Rogers and White"
+P1422,Imagine,Apparel,BrandA,801.81,905,5,16.67,1.85,12x14x16 cm,Blue,Wood,11-12-2024,1 year,"Anderson, Williams and Phelps"
+P1423,Season,Apparel,BrandE,735,376,3.5,0.28,3.53,32x44x10 cm,Yellow,Fabric,18-09-2024,2 years,"Schmidt, Vazquez and Cunningham"
+P1424,Late,Beauty,BrandA,752.66,664,1.8,14.35,3.81,24x19x11 cm,Yellow,Plastic,07-09-2022,2 years,Rivera-Foley
+P1425,Light,Books,BrandB,903.84,448,4.8,39.72,1.44,24x39x11 cm,Green,Metal,03-04-2024,1 year,"Morris, Luna and Perez"
+P1426,Guy,Sports,BrandE,28.5,966,3.5,9.62,3.66,31x14x11 cm,Green,Fabric,17-03-2022,2 years,Brown Group
+P1427,We,Toys,BrandA,300.05,102,1.5,41.04,0.28,23x19x15 cm,Red,Fabric,31-07-2024,1 year,Moss Group
+P1428,Nation,Sports,BrandA,898,270,4.6,10.43,3.83,41x30x19 cm,Black,Metal,12-12-2024,2 years,Waters-Johnson
+P1429,Improve,Electronics,BrandD,133.21,988,4.1,31.65,9.94,29x41x15 cm,Blue,Fabric,09-06-2023,1 year,"Hanna, Hutchinson and Nelson"
+P1430,Reveal,Home Appliances,BrandD,271.14,919,4.9,31.04,7.32,24x27x17 cm,Black,Fabric,20-10-2024,6 months,Reeves-Duncan
+P1431,In,Beauty,BrandB,714.55,680,1.9,8.95,8.77,31x36x5 cm,Pink,Fabric,17-06-2023,2 years,Wood Ltd
+P1432,Among,Apparel,BrandB,735.89,986,1.1,41.17,1.19,15x47x10 cm,Green,Wood,21-03-2024,6 months,"Cruz, Johnson and Stokes"
+P1433,Manager,Toys,BrandC,726.95,899,4.2,21.72,7.11,29x47x19 cm,White,Wood,04-11-2022,1 year,"Martinez, Rodriguez and Keller"
+P1434,Ten,Apparel,BrandC,643.03,648,2.5,33.57,1.74,44x49x8 cm,White,Fabric,21-05-2022,6 months,Gonzalez Group
+P1435,View,Toys,BrandE,949.65,290,4.3,6.84,4.1,31x31x10 cm,Pink,Plastic,03-03-2024,6 months,Oneill Group
+P1436,Experience,Home Appliances,BrandA,132.42,215,1.6,24.48,8.91,33x39x11 cm,Green,Metal,08-10-2024,1 year,Rangel Group
+P1437,Without,Toys,BrandB,464.59,511,4.6,6.37,7.76,37x48x7 cm,Blue,Metal,02-12-2022,6 months,"Sullivan, Gentry and Galvan"
+P1438,Information,Home Appliances,BrandD,176.43,354,2.3,15.31,0.4,15x10x5 cm,Blue,Wood,04-03-2024,2 years,Anderson Group
+P1439,Put,Beauty,BrandC,359.01,87,2.9,28.59,3.91,15x14x19 cm,White,Plastic,29-10-2022,2 years,Cervantes-Potter
+P1440,Among,Electronics,BrandA,361.47,989,3.1,36.03,2.31,18x45x5 cm,Blue,Wood,18-03-2023,2 years,Carr-Macdonald
+P1441,Seem,Toys,BrandB,697.68,96,1.4,23.86,1.11,19x48x9 cm,Black,Metal,21-02-2022,2 years,Hill-Warren
+P1442,Method,Sports,BrandA,981.33,393,3.8,32.01,8.49,12x37x6 cm,Red,Metal,28-08-2022,2 years,White-Anderson
+P1443,Interest,Beauty,BrandE,650.8,830,3.7,15.09,6.59,39x24x9 cm,Red,Plastic,16-04-2023,2 years,"Williams, Hood and Alexander"
+P1444,Now,Books,BrandD,238.93,271,3.8,30.14,4.75,39x41x6 cm,White,Wood,15-03-2023,6 months,Anderson Inc
+P1445,Meet,Toys,BrandA,577.59,359,3.4,16.28,7.62,25x10x12 cm,Black,Fabric,15-05-2022,1 year,Boone LLC
+P1446,Bill,Sports,BrandA,828.12,100,3.9,23.88,2.53,28x26x5 cm,Blue,Plastic,26-11-2023,2 years,Adkins PLC
+P1447,Lose,Sports,BrandD,79.1,673,3.2,35.99,7.43,31x14x13 cm,Yellow,Wood,28-10-2022,2 years,"Martin, Nelson and Swanson"
+P1448,Through,Toys,BrandC,439.78,285,3,31.78,6.31,43x28x5 cm,Yellow,Plastic,05-12-2024,6 months,Thompson LLC
+P1449,Goal,Apparel,BrandD,222.68,131,2.6,3.94,4.32,32x37x7 cm,Red,Plastic,04-04-2023,1 year,Rangel and Sons
+P1450,Gas,Electronics,BrandA,353.86,325,1.2,31.81,5.78,33x39x11 cm,Blue,Fabric,09-04-2024,1 year,"Lopez, Perry and Fisher"
+P1451,Girl,Beauty,BrandA,922.96,868,3.1,38.4,7.27,12x34x11 cm,Red,Plastic,23-11-2023,2 years,Dunn and Sons
+P1452,Draw,Sports,BrandA,261.75,704,1,39.56,8.18,29x44x17 cm,White,Metal,15-07-2022,6 months,Espinoza Group
+P1453,Stage,Beauty,BrandE,661.06,962,2.3,35.99,2.75,47x18x10 cm,Pink,Plastic,24-03-2024,2 years,"Miller, Jones and Sullivan"
+P1454,Democrat,Home Appliances,BrandD,533.27,567,4.3,10.36,7.53,36x42x5 cm,Red,Plastic,07-11-2023,2 years,Roberts Inc
+P1455,Attack,Toys,BrandC,608.45,681,3,8.15,7.82,25x26x7 cm,Pink,Metal,07-11-2023,2 years,White-Smith
+P1456,Girl,Books,BrandD,230.95,318,2.3,23.55,2.55,39x36x7 cm,Yellow,Metal,12-03-2024,1 year,Harris-Mclaughlin
+P1457,Enter,Apparel,BrandA,946.35,450,3.1,38.78,2.52,19x19x8 cm,Red,Wood,13-08-2022,6 months,Williams Group
+P1458,Poor,Beauty,BrandC,857.16,63,2.7,35.13,1.03,25x18x6 cm,Green,Plastic,11-05-2023,6 months,Madden-Schultz
+P1459,Along,Electronics,BrandD,207.08,602,3.5,46.88,1.16,23x41x19 cm,Pink,Wood,12-01-2023,2 years,"Miller, Russell and Galvan"
+P1460,Baby,Apparel,BrandA,377.04,972,4.9,35.74,4.85,20x25x15 cm,Black,Fabric,24-09-2024,1 year,Lucas-Brennan
+P1461,Thing,Books,BrandC,104.98,449,2.6,11.32,6.8,47x25x12 cm,Yellow,Wood,20-10-2022,6 months,Wilkins Group
+P1462,Science,Books,BrandC,363.26,107,2.4,18.33,6.49,33x27x14 cm,Yellow,Fabric,31-08-2022,6 months,"Garcia, Parks and Mitchell"
+P1463,Leader,Apparel,BrandE,873.06,703,3.5,44.6,1.54,38x37x9 cm,Red,Wood,06-10-2023,1 year,"Diaz, Joseph and Hogan"
+P1464,Actually,Toys,BrandB,966.29,286,3.6,23.05,6.49,46x34x20 cm,Blue,Fabric,18-06-2022,1 year,Campbell-Price
+P1465,Scientist,Electronics,BrandC,711.54,388,4.5,37.85,2.56,44x31x10 cm,White,Metal,13-01-2024,2 years,Bates Inc
+P1466,Meeting,Electronics,BrandC,751.07,527,4.6,46.43,3.74,14x28x14 cm,White,Fabric,04-07-2022,2 years,Vang and Sons
+P1467,Next,Toys,BrandB,498.13,519,2.1,4.44,9.57,45x38x20 cm,Green,Plastic,06-02-2024,1 year,Richards LLC
+P1468,Church,Toys,BrandE,696.01,994,4.5,5.44,7.23,10x38x12 cm,Blue,Wood,06-10-2023,1 year,"Petersen, Smith and Hebert"
+P1469,Act,Beauty,BrandC,580.04,148,4.5,18.25,0.55,11x46x9 cm,White,Metal,16-03-2022,2 years,Swanson LLC
+P1470,Listen,Apparel,BrandB,530,548,3.4,5.67,6.2,33x45x14 cm,Blue,Metal,18-05-2024,6 months,"Wilson, Ford and Stephens"
+P1471,End,Electronics,BrandA,482.65,943,3.9,42.51,5.39,17x14x9 cm,Pink,Wood,06-07-2023,2 years,Johnson Ltd
+P1472,Read,Beauty,BrandB,724.75,913,4.5,15.13,3.55,28x48x14 cm,Black,Metal,11-12-2023,1 year,Barnes Inc
+P1473,Message,Toys,BrandA,892.34,995,3.6,16.04,5.46,31x16x11 cm,Blue,Metal,14-04-2024,1 year,Braun Group
+P1474,Key,Toys,BrandB,559.24,395,3.4,22.33,1.57,32x30x6 cm,Pink,Plastic,07-05-2023,1 year,Martinez-Mejia
+P1475,Event,Home Appliances,BrandA,793.13,210,1.7,33.8,5.09,12x50x6 cm,Pink,Fabric,15-09-2023,6 months,Perry Group
+P1476,Conference,Home Appliances,BrandE,725.88,366,2.6,10.44,9.53,38x20x6 cm,Yellow,Wood,05-02-2024,1 year,Barrett-Perez
+P1477,Capital,Sports,BrandD,530.86,22,4,16.28,6.26,11x31x15 cm,Red,Metal,14-07-2024,1 year,"Underwood, Torres and Steele"
+P1478,Woman,Sports,BrandE,245.82,712,4.7,36.4,4.09,32x21x9 cm,Yellow,Wood,31-08-2022,2 years,Le PLC
+P1479,Middle,Books,BrandC,733.29,1000,3.2,19.56,6.5,28x41x8 cm,Green,Wood,23-01-2024,6 months,"Thompson, Thomas and Hatfield"
+P1480,Economy,Electronics,BrandA,118.46,167,2.6,47.72,7.81,14x23x5 cm,Yellow,Metal,11-02-2022,6 months,Yoder-Butler
+P1481,Pass,Electronics,BrandB,387.22,901,2.8,48.89,6.76,23x34x19 cm,Black,Plastic,14-05-2023,2 years,"Cannon, Jackson and Scott"
+P1482,Wonder,Home Appliances,BrandC,135.1,104,3.2,34.82,1.88,21x35x12 cm,Black,Metal,11-08-2023,2 years,Ali-Bennett
+P1483,Easy,Apparel,BrandB,333.35,73,2.1,28.33,8.67,37x39x16 cm,Red,Plastic,18-12-2024,6 months,"Kelly, Cardenas and Rodriguez"
+P1484,Tonight,Apparel,BrandD,92.14,807,2.2,1.55,1.17,50x16x14 cm,White,Fabric,01-09-2023,2 years,"Jordan, Reilly and Weeks"
+P1485,Exist,Sports,BrandA,655.85,230,5,38.38,4.51,33x15x16 cm,Red,Wood,25-06-2022,1 year,Landry-Grant
+P1486,Customer,Home Appliances,BrandD,917.71,378,4,33.73,6.7,14x22x18 cm,White,Fabric,09-12-2023,6 months,"Watkins, Wilson and Chavez"
+P1487,Maintain,Toys,BrandE,616.38,413,3.5,5.69,0.98,36x40x20 cm,Pink,Metal,14-07-2022,1 year,West Group
+P1488,Quite,Electronics,BrandC,789.41,541,1.8,6.65,0.57,18x49x18 cm,White,Plastic,07-07-2022,2 years,Fox-Camacho
+P1489,Evidence,Apparel,BrandA,583.52,324,4.1,3.14,1.1,21x27x17 cm,Black,Fabric,10-12-2024,1 year,"Perry, Garcia and Padilla"
+P1490,Eat,Books,BrandA,330.02,764,4.9,25.36,0.6,48x10x16 cm,Black,Plastic,14-10-2023,6 months,Gordon PLC
+P1491,Key,Beauty,BrandB,185.01,447,4.1,47.27,6.78,25x13x17 cm,White,Metal,27-11-2024,1 year,Riley-Coffey
+P1492,Us,Home Appliances,BrandB,261.9,24,2.6,25,0.75,50x16x14 cm,Red,Fabric,24-10-2024,6 months,Lee-Jackson
+P1493,Strategy,Beauty,BrandB,705.24,878,1.3,5.38,0.39,23x26x14 cm,White,Fabric,12-01-2025,2 years,Carroll-Lester
+P1494,Strategy,Sports,BrandE,273.77,440,1.9,32.04,7.41,43x27x11 cm,Black,Fabric,16-12-2024,6 months,Wright LLC
+P1495,Hair,Electronics,BrandE,79.58,290,4.6,17.54,9.34,31x43x20 cm,Yellow,Plastic,22-10-2022,6 months,Russell-Hernandez
+P1496,Herself,Apparel,BrandA,475.88,480,1.8,20.25,5.36,13x47x6 cm,Black,Fabric,31-05-2023,1 year,"Johns, Morales and Jones"
+P1497,Animal,Sports,BrandC,988.39,730,1.3,7.49,5.84,17x32x12 cm,Pink,Fabric,12-02-2022,6 months,"Franco, Hall and Kelly"
+P1498,Order,Home Appliances,BrandB,26.99,215,2.3,12.26,6.4,46x18x13 cm,Green,Metal,10-07-2023,2 years,"Evans, Cook and Thompson"
+P1499,Through,Toys,BrandA,619.95,789,4.2,30.5,9.09,31x13x15 cm,Blue,Plastic,20-12-2023,6 months,Ross-Cole
+P1500,Finish,Sports,BrandD,976.67,174,2.8,34.22,3.93,41x10x9 cm,Red,Plastic,03-09-2023,2 years,Vincent-Moore
+P1501,With,Books,BrandA,804.78,213,4.4,37.18,0.17,48x31x17 cm,Blue,Wood,23-11-2023,1 year,Stewart Ltd
+P1502,Board,Electronics,BrandD,228.8,572,2.7,16.81,1.04,28x21x5 cm,Yellow,Metal,03-04-2024,2 years,Clayton Ltd
+P1503,Also,Books,BrandB,259.27,173,3.5,0.4,4.08,38x45x16 cm,Blue,Metal,24-10-2023,1 year,Estrada-Taylor
+P1504,Administration,Electronics,BrandE,639.93,871,4.5,32.03,3.37,21x37x13 cm,White,Plastic,02-05-2022,1 year,"Cox, Cooper and Warren"
+P1505,Girl,Toys,BrandC,888.2,543,4.9,29.72,6.98,17x11x19 cm,White,Metal,28-06-2023,6 months,Guerrero-Mcknight
+P1506,Ready,Apparel,BrandA,25.12,612,2.8,11.43,5.23,34x14x15 cm,Red,Fabric,22-06-2024,6 months,Buchanan PLC
+P1507,Various,Apparel,BrandE,764.22,279,3.3,45.56,0.82,18x18x9 cm,Black,Fabric,10-12-2023,2 years,"Ewing, Estrada and Flores"
+P1508,Task,Toys,BrandC,126.58,489,2.9,11.02,6.27,23x11x5 cm,Black,Metal,17-03-2022,2 years,Mclaughlin-Richard
+P1509,Or,Beauty,BrandD,581.17,813,2.7,30.31,2.07,32x49x5 cm,Pink,Wood,23-01-2022,6 months,Ross-Parks
+P1510,Pressure,Home Appliances,BrandC,493.62,373,3.3,18.3,0.98,36x47x11 cm,Yellow,Fabric,11-08-2022,6 months,"Davis, Burgess and Holmes"
+P1511,Agent,Apparel,BrandD,761.11,262,3.8,14.63,1.15,34x10x11 cm,Red,Wood,10-06-2022,1 year,Wagner Ltd
+P1512,Difficult,Electronics,BrandC,597.42,408,2,26.24,5.91,16x15x11 cm,Blue,Plastic,09-06-2024,1 year,Werner Group
+P1513,Rock,Books,BrandB,507.52,335,2,28.13,2.84,30x27x6 cm,White,Metal,25-01-2024,6 months,Aguilar-Deleon
+P1514,Everybody,Home Appliances,BrandB,887.8,944,1.6,8.78,3.62,46x48x13 cm,Pink,Wood,18-12-2024,6 months,Johnson Ltd
+P1515,Public,Electronics,BrandB,736.26,209,2.1,38.43,9.7,24x12x6 cm,Blue,Wood,30-03-2024,6 months,Salas Group
+P1516,Difference,Toys,BrandC,693.32,418,2.2,5,5.53,16x10x10 cm,Pink,Wood,03-03-2023,6 months,Banks LLC
+P1517,Whether,Apparel,BrandC,565.96,728,4.4,40.06,8.97,15x48x9 cm,Pink,Plastic,30-11-2024,1 year,Park-Holloway
+P1518,Cost,Sports,BrandC,637.29,910,4.2,27.22,6.18,24x39x18 cm,Blue,Fabric,21-11-2023,2 years,Mitchell-Jensen
+P1519,Campaign,Electronics,BrandA,953.4,781,4.9,19.39,3.05,25x36x19 cm,Yellow,Fabric,13-07-2024,1 year,Carter-Jensen
+P1520,Hand,Apparel,BrandA,797.17,527,2.3,31.61,2.66,29x45x8 cm,Red,Wood,23-06-2024,6 months,"Ramirez, Harris and Kemp"
+P1521,Ready,Sports,BrandE,100.89,990,4.3,12.59,4.57,29x39x9 cm,Blue,Wood,09-05-2024,1 year,Perry-Griffith
+P1522,Friend,Books,BrandE,855.41,204,4.6,40.23,6.72,22x17x14 cm,Green,Fabric,14-07-2022,1 year,Smith-Miller
+P1523,Dinner,Electronics,BrandA,197.43,848,2.6,47.44,7.18,49x13x12 cm,Red,Plastic,07-06-2022,1 year,"Meyer, King and Carter"
+P1524,Economy,Toys,BrandB,655.53,917,4.4,28.78,8.89,16x26x8 cm,White,Wood,16-08-2023,6 months,Campbell Ltd
+P1525,Fund,Toys,BrandE,841.86,889,1.7,36.99,4.04,12x49x6 cm,Blue,Metal,29-06-2022,6 months,"James, Garrett and Hardy"
+P1526,Point,Apparel,BrandB,945.92,261,1.3,34.39,8.05,14x50x8 cm,Black,Fabric,23-06-2024,1 year,Harrison Ltd
+P1527,Successful,Books,BrandA,288.09,779,1.2,45.44,0.76,37x44x18 cm,Green,Wood,06-06-2024,6 months,"Brown, Coleman and Leonard"
+P1528,Decade,Electronics,BrandB,572.5,153,2,39.61,1.48,49x23x6 cm,Black,Plastic,19-02-2022,1 year,Freeman PLC
+P1529,Feeling,Apparel,BrandD,106.71,767,4.9,31.37,5.38,34x22x11 cm,Pink,Wood,22-09-2024,1 year,"Gonzalez, Jones and Larson"
+P1530,Maybe,Books,BrandB,276.6,500,4.6,0.94,9.27,16x38x13 cm,Yellow,Plastic,14-03-2022,2 years,Miller-Blankenship
+P1531,Interest,Electronics,BrandE,133.67,337,2.4,1.51,9.84,20x17x12 cm,Green,Metal,23-07-2022,6 months,Anderson-Hutchinson
+P1532,For,Beauty,BrandC,186.23,802,3.7,11.53,0.62,44x30x9 cm,Yellow,Fabric,26-01-2023,6 months,Duke Ltd
+P1533,Film,Books,BrandB,736.04,984,4.2,4.16,9.47,40x37x6 cm,Blue,Plastic,10-03-2024,1 year,"Cardenas, King and Johnson"
+P1534,Democrat,Sports,BrandE,902.04,475,2.8,46.64,1.23,36x36x15 cm,White,Wood,05-07-2024,2 years,Torres-Miller
+P1535,Nothing,Toys,BrandD,268.65,905,3,31.86,2.71,39x39x15 cm,Pink,Plastic,20-09-2022,1 year,"Richardson, Ortiz and George"
+P1536,Social,Books,BrandC,865.17,18,5,7.49,1.77,13x41x20 cm,Pink,Wood,13-12-2022,1 year,Davidson-Mayo
+P1537,Soldier,Electronics,BrandA,35.15,766,2.9,40.33,2.77,30x35x5 cm,White,Fabric,01-04-2022,1 year,"Cole, Gonzales and Jackson"
+P1538,Local,Beauty,BrandD,160.74,209,1.6,44.64,1.24,45x22x19 cm,Red,Fabric,14-02-2024,1 year,"Clark, West and Ramos"
+P1539,Speak,Apparel,BrandC,142.29,891,1.9,17.08,3.3,25x50x5 cm,Black,Fabric,11-09-2023,1 year,"Jackson, Brown and Tyler"
+P1540,Find,Books,BrandA,273.46,660,4.2,13.98,1.19,45x30x11 cm,Red,Metal,24-11-2023,6 months,Thompson Ltd
+P1541,Director,Books,BrandB,149.89,916,1.5,14.75,8.13,37x16x14 cm,Green,Fabric,18-10-2023,2 years,Bailey Group
+P1542,Attack,Apparel,BrandA,323.17,402,3.7,24.79,5.61,28x31x17 cm,Pink,Fabric,20-07-2024,6 months,Williams Ltd
+P1543,Character,Apparel,BrandC,959.66,121,2.9,10.37,3.5,32x33x9 cm,Green,Wood,05-03-2023,6 months,Valdez Ltd
+P1544,Art,Apparel,BrandC,156.51,42,4.8,21.78,9.56,34x26x19 cm,Yellow,Fabric,01-11-2022,2 years,Watkins-Burgess
+P1545,Should,Toys,BrandE,13.9,645,1.1,37.07,9.21,26x31x9 cm,Red,Plastic,24-09-2024,1 year,"Castro, Phillips and Bates"
+P1546,Ready,Sports,BrandB,774.08,719,3.7,1.77,6.25,39x38x10 cm,Black,Fabric,01-05-2022,1 year,"Stone, Rivera and Cardenas"
+P1547,Fund,Home Appliances,BrandC,255.9,997,1.7,12.35,1.86,49x10x18 cm,Red,Metal,22-02-2024,2 years,Williamson Inc
+P1548,Theory,Books,BrandB,954.96,864,3.1,12.7,3.78,49x24x19 cm,Black,Plastic,16-03-2022,1 year,Stanton-Davis
+P1549,Body,Electronics,BrandB,50.85,281,1.8,36.23,7.39,10x27x11 cm,Red,Wood,01-08-2024,2 years,Moore and Sons
+P1550,Newspaper,Beauty,BrandB,328.52,316,2.3,7.76,4.91,25x20x16 cm,White,Fabric,21-12-2024,2 years,Jones-Mcconnell
+P1551,Right,Home Appliances,BrandA,646.7,107,2.5,4.99,0.7,43x18x6 cm,Black,Wood,13-05-2022,6 months,Christensen Group
+P1552,Top,Apparel,BrandC,966.01,849,4.2,36.08,5.32,40x14x5 cm,Blue,Wood,01-07-2022,6 months,Barron LLC
+P1553,Today,Home Appliances,BrandD,600.96,70,1.5,14.93,0.7,36x42x10 cm,Black,Metal,03-10-2023,1 year,"Williams, Pena and Johnson"
+P1554,Perhaps,Home Appliances,BrandB,793.08,743,1.8,29.97,1.19,41x42x15 cm,Pink,Plastic,09-09-2023,2 years,"Le, Alvarado and Oconnor"
+P1555,Film,Beauty,BrandE,55.57,139,3.5,49.93,2.99,38x19x9 cm,Pink,Wood,21-09-2022,6 months,Rodriguez Inc
+P1556,Raise,Books,BrandC,176.43,767,4.7,48.71,7.07,41x28x11 cm,Blue,Fabric,08-01-2025,6 months,"Medina, Walter and Johnson"
+P1557,The,Sports,BrandB,758.05,299,3,42.06,3.99,43x28x10 cm,Black,Metal,15-04-2024,6 months,Bean-Doyle
+P1558,Everyone,Home Appliances,BrandE,465.83,534,4.6,17.6,1.51,27x26x13 cm,White,Metal,28-07-2022,2 years,Mills-Mann
+P1559,Car,Apparel,BrandE,503.83,410,2,46.54,0.9,15x34x9 cm,Black,Plastic,08-03-2024,1 year,"Salinas, Smith and Olson"
+P1560,Save,Home Appliances,BrandD,584.36,406,4.7,30.68,7.16,28x36x19 cm,Blue,Wood,10-06-2024,6 months,"Solis, Armstrong and Rogers"
+P1561,Buy,Apparel,BrandB,723.44,202,1.8,17.35,0.18,34x42x17 cm,White,Fabric,27-04-2022,2 years,"Turner, Johnson and Guzman"
+P1562,Write,Electronics,BrandD,578.24,98,2.7,3.56,3.45,28x12x5 cm,Yellow,Metal,28-04-2023,6 months,Hobbs-Coleman
+P1563,Should,Electronics,BrandA,616.33,801,1.2,42.56,2.7,41x31x15 cm,Black,Plastic,19-12-2024,2 years,"Mcdonald, Browning and Vincent"
+P1564,Nation,Beauty,BrandA,516.65,877,1.8,36.92,9.52,13x43x10 cm,Blue,Metal,24-02-2024,6 months,Murray Inc
+P1565,These,Beauty,BrandA,938.56,948,2.7,11.6,2.76,37x23x15 cm,White,Fabric,02-09-2024,6 months,Ward-Brown
+P1566,Board,Electronics,BrandC,385.73,919,4.6,15.24,4.33,21x15x6 cm,Red,Fabric,25-09-2023,2 years,Oconnor-Walker
+P1567,Suggest,Beauty,BrandB,924.96,758,3.2,31.38,1.56,40x23x10 cm,Red,Fabric,15-05-2024,6 months,"Mccoy, Santiago and Hamilton"
+P1568,Road,Sports,BrandE,938.83,825,3.7,17.73,7.71,50x30x16 cm,Red,Fabric,16-06-2024,1 year,Gibson and Sons
+P1569,Contain,Apparel,BrandA,502.38,865,4.4,6.13,0.54,39x37x5 cm,Blue,Plastic,19-01-2024,1 year,Miller-Jones
+P1570,Risk,Apparel,BrandB,347.04,195,3.5,44.95,3.37,28x48x15 cm,Green,Wood,23-02-2023,1 year,"Olson, Sanders and Poole"
+P1571,Character,Sports,BrandD,279.39,247,4.3,47.02,2.17,20x22x11 cm,White,Metal,07-08-2023,6 months,Hunter LLC
+P1572,Attack,Beauty,BrandB,152.7,430,3.5,35.72,1.63,29x10x17 cm,Pink,Wood,03-02-2023,1 year,Allen and Sons
+P1573,Already,Toys,BrandE,322.91,314,4.4,7.52,0.15,28x13x9 cm,Pink,Fabric,29-11-2022,6 months,Davis-Williams
+P1574,Grow,Apparel,BrandC,850.88,860,5,4.55,1.59,43x30x17 cm,Pink,Fabric,19-06-2023,2 years,"Austin, Allen and Wright"
+P1575,Able,Beauty,BrandB,437.68,246,3.6,24.55,9.89,26x46x10 cm,Pink,Metal,26-07-2022,6 months,Estes-Andrews
+P1576,Million,Home Appliances,BrandA,227.23,998,1.4,26.05,6.2,14x18x12 cm,Green,Fabric,22-09-2024,1 year,Edwards-Leach
+P1577,Kind,Books,BrandE,304.8,516,3.2,41.84,8.5,50x30x9 cm,Green,Wood,28-05-2022,1 year,"Boyd, Martin and Adkins"
+P1578,Certainly,Apparel,BrandE,770.59,631,4,2.77,2.05,36x32x15 cm,Blue,Metal,25-05-2022,2 years,Garrett and Sons
+P1579,Without,Sports,BrandD,319.24,77,2.6,16.99,1.08,46x21x10 cm,White,Metal,12-08-2022,2 years,Lewis-Alvarez
+P1580,Agent,Home Appliances,BrandD,254.75,171,4.8,31.4,3.41,22x48x10 cm,Blue,Wood,26-08-2022,6 months,Gay Group
+P1581,Special,Beauty,BrandB,383.8,102,1.8,27.91,5.68,21x38x12 cm,White,Fabric,24-06-2022,2 years,"Roberts, Mills and Graham"
+P1582,Staff,Toys,BrandB,612.63,623,1.3,21.96,8.64,28x46x11 cm,Blue,Fabric,22-09-2023,1 year,"Kirby, Harvey and Jacobs"
+P1583,Serious,Beauty,BrandC,511.3,353,2.9,19.33,2.08,26x45x13 cm,Green,Fabric,07-11-2023,1 year,Hardin-Allison
+P1584,Read,Beauty,BrandB,85.44,782,2.8,35.85,3.66,28x45x14 cm,Black,Wood,15-08-2023,6 months,Nelson Group
+P1585,No,Sports,BrandC,340.98,270,4,16.77,2.89,33x48x15 cm,White,Metal,04-02-2024,6 months,Solis PLC
+P1586,Father,Electronics,BrandE,36.86,920,3.6,14.8,1.32,26x49x9 cm,Red,Plastic,05-10-2022,1 year,"Swanson, Byrd and Nguyen"
+P1587,Occur,Toys,BrandD,358.61,853,3.9,16.6,8.27,14x31x11 cm,Pink,Plastic,18-04-2024,2 years,Alvarez-Johnson
+P1588,Night,Toys,BrandC,222.35,79,1.5,29.11,9.26,40x34x11 cm,Pink,Fabric,14-11-2024,6 months,"Smith, Mcclain and Browning"
+P1589,However,Sports,BrandB,197.06,387,3.6,49.34,8.12,13x12x17 cm,Green,Plastic,11-11-2024,2 years,Knight PLC
+P1590,Matter,Beauty,BrandA,55.62,994,3.4,10.24,0.24,36x37x10 cm,Blue,Plastic,13-12-2022,2 years,"Thomas, Coleman and Riddle"
+P1591,Approach,Toys,BrandA,662.99,865,3.9,7.5,0.55,47x14x10 cm,Pink,Plastic,10-08-2022,2 years,Smith Group
+P1592,Director,Beauty,BrandC,418,919,1.1,4.52,9.55,19x20x5 cm,Yellow,Plastic,28-09-2022,2 years,Barrett PLC
+P1593,Address,Home Appliances,BrandB,23.23,949,2.8,44.94,4.89,50x19x9 cm,Yellow,Wood,09-09-2022,6 months,Delacruz Ltd
+P1594,Reduce,Apparel,BrandA,119.64,400,1.1,31.14,5.89,38x31x20 cm,White,Wood,15-12-2024,2 years,"Reed, Hicks and Myers"
+P1595,Prove,Beauty,BrandB,753.9,873,2,36.97,8.25,41x13x14 cm,Black,Plastic,14-01-2023,2 years,"Rice, Harvey and Black"
+P1596,Conference,Home Appliances,BrandE,887.71,398,1.6,41.62,4.62,43x14x16 cm,Yellow,Wood,23-08-2022,2 years,"Barnett, Chavez and Rodriguez"
+P1597,Eight,Apparel,BrandB,858.5,456,3.2,15.48,9.06,13x36x7 cm,Green,Wood,10-05-2023,2 years,Hill-Rivera
+P1598,Line,Books,BrandA,683.41,891,3.8,20.52,6.43,34x20x5 cm,Yellow,Fabric,02-12-2022,2 years,Bullock and Sons
+P1599,Image,Toys,BrandC,333.04,940,4.3,28.35,3.84,49x24x6 cm,Blue,Fabric,11-01-2025,6 months,"Rocha, Mccullough and Park"
